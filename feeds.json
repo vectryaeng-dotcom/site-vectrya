@@ -1,13 +1,19 @@
 {
   "_instrucoes": "Edite as listas abaixo. Feeds que falharem são ignorados e aparecem no log da Action.",
-  "limitePorFeed": 5,
-  "limiteTotalSetor": 9,
+  "limitePorFeed": 2,
+  "limiteTotalSetor": 14,
   "limiteNewsletter": 3,
   "setor": [
     { "nome": "Canal Solar", "categoria": "Energia Solar", "url": "https://canalsolar.com.br/feed/" },
-    { "nome": "CanalEnergia", "categoria": "Setor Elétrico", "url": "https://www.canalenergia.com.br/feed" },
+    { "nome": "pv magazine Brasil", "categoria": "Energia Solar", "url": "https://www.pv-magazine-brasil.com/feed/" },
+    { "nome": "ABSOLAR", "categoria": "Energia Solar", "url": "https://www.absolar.org.br/feed/" },
     { "nome": "MegaWhat", "categoria": "Setor Elétrico", "url": "https://megawhat.energy/feed" },
-    { "nome": "ABVE", "categoria": "Mobilidade Elétrica", "url": "https://abve.org.br/feed/" }
+    { "nome": "CanalEnergia", "categoria": "Setor Elétrico", "url": "https://www.canalenergia.com.br/feed/" },
+    { "nome": "O Setor Elétrico", "categoria": "Setor Elétrico", "url": "https://www.osetoreletrico.com.br/feed/" },
+    { "nome": "agência eixos", "categoria": "Energia", "url": "https://eixos.com.br/feed/" },
+    { "nome": "ANEEL", "categoria": "Setor Elétrico", "url": "https://www.gov.br/aneel/pt-br/assuntos/noticias/RSS" },
+    { "nome": "ABVE", "categoria": "Mobilidade Elétrica", "url": "https://abve.org.br/feed/" },
+    { "nome": "InsideEVs Brasil", "categoria": "Mobilidade Elétrica", "url": "https://insideevs.uol.com.br/rss/articles/all/" }
   ],
   "newsletter": [
     { "nome": "Newsletter Vectrya", "categoria": "Newsletter", "url": "https://SEU-NOME.substack.com/feed" }
