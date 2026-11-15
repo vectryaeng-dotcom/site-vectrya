@@ -381,7 +381,6 @@ footer a.back{display:inline-flex;align-items:center;gap:6px;margin-top:12px;fon
     <a href="#economia">Economia</a>
     <a href="#processo">Como trabalhamos</a>
     <a href="#essencia">Essência</a>
-    <a href="#noticias">Notícias</a>
     <a href="#contato">Contato</a>
   </nav>
 </header>
@@ -529,64 +528,6 @@ footer a.back{display:inline-flex;align-items:center;gap:6px;margin-top:12px;fon
       <div class="val rv" style="grid-column:span 2"><svg class="i"><use href="#i-flag"/></svg><b>Compromisso com resultados</b><span>Foco em soluções viáveis, bem planejadas e consistentes.</span></div>
     </div>
   </div>
-</section>
-
-<!-- NOTÍCIAS (atualizadas automaticamente todo dia pelo GitHub) -->
-<section id="noticias" class="vx-news">
-  <style>
-    .vx-news .vx-sub{margin:34px 0 14px;font:700 12px/1 'Montserrat',sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--blue)}
-    .vx-news .vx-sub:first-of-type{margin-top:0}
-    .vx-grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(270px,1fr))}
-    .vx-card{display:flex;flex-direction:column;background:var(--white);border:1px solid var(--line);border-radius:var(--r);
-      overflow:hidden;text-decoration:none;color:var(--ink);box-shadow:var(--shadow);transition:transform .2s ease,border-color .2s ease}
-    .vx-card:hover,.vx-card:focus-visible{transform:translateY(-4px);border-color:var(--blue-2)}
-    .vx-card:active{transform:scale(.98)}
-    .vx-card img{width:100%;aspect-ratio:16/9;object-fit:cover;background:var(--paper)}
-    .vx-body{padding:16px 18px 18px;display:flex;flex-direction:column;gap:8px;flex:1}
-    .vx-meta{font-size:12px;color:var(--ink-2);display:flex;gap:6px;flex-wrap:wrap}
-    .vx-tag{color:var(--blue);font-weight:600}
-    .vx-t{font:700 15.5px/1.35 'Montserrat',sans-serif;margin:0}
-    .vx-r{font-size:14px;color:var(--ink-2);line-height:1.5;margin:0}
-    .vx-ler{margin-top:auto;font-size:13.5px;font-weight:600;color:var(--blue)}
-    .vx-foot{margin-top:22px;font-size:12.5px;color:var(--ink-2)}
-  </style>
-  <div class="wrap">
-    <div class="sec-head">
-      <span class="eyebrow">Fique por dentro</span>
-      <h2>Notícias do setor de energia.</h2>
-      <p>O que está movimentando energia solar, setor elétrico e mobilidade elétrica, atualizado todos os dias.</p>
-    </div>
-    <div id="vx-bloco-news" hidden>
-      <p class="vx-sub">Newsletter Vectrya</p>
-      <div class="vx-grid" id="vx-news"></div>
-    </div>
-    <p class="vx-sub">Últimas do setor</p>
-    <div class="vx-grid" id="vx-setor"><p class="vx-r">Carregando notícias…</p></div>
-    <p class="vx-foot" id="vx-atual"></p>
-  </div>
-  <script>
-  (function(){
-    var fmt=new Intl.DateTimeFormat("pt-BR",{day:"2-digit",month:"short",year:"numeric"});
-    function el(tag,cls,txt){var e=document.createElement(tag);if(cls)e.className=cls;if(txt!=null)e.textContent=txt;return e}
-    function card(n,cta){
-      var a=el("a","vx-card");a.href=n.link;a.target="_blank";a.rel="noopener";
-      if(n.imagem){var i=el("img");i.src=n.imagem;i.alt="";i.loading="lazy";i.onerror=function(){i.remove()};a.appendChild(i)}
-      var b=el("div","vx-body"),m=el("div","vx-meta");
-      m.append(el("span","vx-tag",n.categoria||""),el("span","",(n.fonte||"")+(n.data?" · "+fmt.format(new Date(n.data)):"")));
-      b.append(m,el("p","vx-t",n.titulo));
-      if(n.resumo)b.appendChild(el("p","vx-r",n.resumo));
-      b.appendChild(el("span","vx-ler",cta+" →"));a.appendChild(b);return a}
-    function fill(id,list,cta){var g=document.getElementById(id);g.innerHTML="";list.forEach(function(n){g.appendChild(card(n,cta))})}
-    fetch("https://raw.githubusercontent.com/vectryaeng-dotcom/site-vectrya/main/noticias.json?v="+Date.now())
-      .then(function(r){if(!r.ok)throw 0;return r.json()})
-      .catch(function(){return fetch("noticias.json").then(function(r){return r.json()})}).then(function(d){
-      if(d.newsletter&&d.newsletter.length){fill("vx-news",d.newsletter,"Ler edição");document.getElementById("vx-bloco-news").hidden=false}
-      if(d.setor&&d.setor.length)fill("vx-setor",d.setor,"Ler no portal");
-      else document.getElementById("vx-setor").innerHTML='<p class="vx-r">Em breve, novidades do setor.</p>';
-      if(d.atualizadoEm)document.getElementById("vx-atual").textContent="Atualizado em "+fmt.format(new Date(d.atualizadoEm))+". As notícias pertencem aos portais de origem, com link para a matéria completa.";
-    }).catch(function(){var s=document.getElementById("noticias");if(s)s.remove()});
-  })();
-  </script>
 </section>
 
 <!-- CONTATO -->
