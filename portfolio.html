@@ -577,7 +577,9 @@ footer a.back{display:inline-flex;align-items:center;gap:6px;margin-top:12px;fon
       if(n.resumo)b.appendChild(el("p","vx-r",n.resumo));
       b.appendChild(el("span","vx-ler",cta+" →"));a.appendChild(b);return a}
     function fill(id,list,cta){var g=document.getElementById(id);g.innerHTML="";list.forEach(function(n){g.appendChild(card(n,cta))})}
-    fetch("noticias.json?v="+Date.now()).then(function(r){return r.json()}).then(function(d){
+    fetch("https://raw.githubusercontent.com/vectryaeng-dotcom/site-vectrya/main/noticias.json?v="+Date.now())
+      .then(function(r){if(!r.ok)throw 0;return r.json()})
+      .catch(function(){return fetch("noticias.json").then(function(r){return r.json()})}).then(function(d){
       if(d.newsletter&&d.newsletter.length){fill("vx-news",d.newsletter,"Ler edição");document.getElementById("vx-bloco-news").hidden=false}
       if(d.setor&&d.setor.length)fill("vx-setor",d.setor,"Ler no portal");
       else document.getElementById("vx-setor").innerHTML='<p class="vx-r">Em breve, novidades do setor.</p>';
