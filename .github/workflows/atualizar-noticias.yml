@@ -29,6 +29,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nada novo hoje."
           else
-            git commit -m "Atualiza notícias $(date -u +%F)"
+            git commit -m "Atualiza notícias $(date -u +%F) [skip netlify]"
             git push
           fi
