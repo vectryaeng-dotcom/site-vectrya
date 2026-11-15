@@ -1,1 +1,34 @@
+name: Atualizar notícias
 
+on:
+  schedule:
+    - cron: "0 9 * * *"   # todo dia às 6h (horário de Fortaleza / Brasília)
+  workflow_dispatch:        # permite rodar manualmente pela aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Buscar notícias
+        run: node scripts/buscar-noticias.mjs
+
+      - name: Salvar se houver novidades
+        run: |
+          git config user.name "vectrya-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add noticias.json
+          if git diff --cached --quiet; then
+            echo "Nada novo hoje."
+          else
+            git commit -m "Atualiza notícias $(date -u +%F)"
+            git push
+          fi
