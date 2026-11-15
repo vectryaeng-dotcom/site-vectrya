@@ -1,6 +1,42 @@
 {
-  "atualizadoEm": "2026-11-15T15:51:31.310Z",
+  "atualizadoEm": "2026-11-15T16:20:06.530Z",
   "setor": [
+    {
+      "titulo": "Descobriram um jeito de apagar incêndios nas baterias dos carros elétricos de forma mais rápida",
+      "link": "https://insideevs.uol.com.br/news/815502/novo-m%C3%A9todo-apagar-incendio-baterias/",
+      "resumo": "Um experimento com baterias LFP compara nitrogênio líquido e Novec 1230: o primeiro requer menos produto e resfria melhor",
+      "imagem": "https://cdn.motor1.com/images/mgl/3WB2KL/s3/incendi-delle-batterie-scoperto-un-modo-per-spegnerli-piu-in-fretta.jpg",
+      "data": "2026-11-15T12:24:46.000Z",
+      "fonte": "InsideEVs Brasil",
+      "categoria": "Mobilidade Elétrica"
+    },
+    {
+      "titulo": "Já andamos no Dacia Spring de nova geração, mostrando como poderia ser o Renault Kwid E-Tech",
+      "link": "https://insideevs.uol.com.br/reviews/815455/impressoes-dacia-spring-nova-geracao/",
+      "resumo": "O irmão pragmático do Renault Twingo é simples, mas acerta em muitos aspectos",
+      "imagem": "https://cdn.motor1.com/images/mgl/2N9Kex/s3/dacia-spring-2026-im-test.jpg",
+      "data": "2026-11-14T12:00:00.000Z",
+      "fonte": "InsideEVs Brasil",
+      "categoria": "Mobilidade Elétrica"
+    },
+    {
+      "titulo": "O que leva a ANP a chamar as transportadoras de “vacas leiteiras”?",
+      "link": "https://eixos.com.br/newsletters/newsletter-gas-week/o-que-leva-a-anp-a-chamar-as-transportadoras-de-vacas-leiteiras/",
+      "resumo": "NTS e TAG pagaram aos acionistas até 16 vezes o que as empresas investiram na rede de gasodutos e, em meio à revisão tarifária na ANP, ameaçam suspender investimentos O post O que…",
+      "imagem": "https://uploads.eixos.com.br/2026/05/Rede-de-gasoduto-da-NTS-Foto-Divulgacao-ORIGINAL.jpg",
+      "data": "2026-11-14T11:30:00.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Energia"
+    },
+    {
+      "titulo": "Fazenda não vai renovar subsídio de R$ 1,40 ao diesel importado",
+      "link": "https://eixos.com.br/combustiveis-e-bioenergia/fazenda-nao-vai-renovar-subsidio-de-r-140-ao-diesel-importado/",
+      "resumo": "Adicional criado em outubro venceu nesta semana; a subvenção de R$ 2,12 por litro a produtores e importadores segue em vigor O post Fazenda não vai renovar subsídio de R$ 1,40 ao…",
+      "imagem": "https://uploads.eixos.com.br/2026/10/Dario-Durigan-concede-coletiva-de-imprensa-sobre-o-mercado-financeiro-em-Brasilia-DF-em-27-de-outubro-de-2026-Foto-Washington-Costa-MF-1.jpg",
+      "data": "2026-11-13T21:59:04.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Energia"
+    },
     {
       "titulo": "ANP retoma revisão tarifária de transporte de gás em reunião extraordinária na quarta-feira",
       "link": "https://megawhat.uol.com.br/oleo-e-gas/anp-retoma-revisao-tarifaria-de-transporte-de-gas-em-reuniao-extraordinaria-na-quarta-feira/",
@@ -20,30 +56,39 @@
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "ONS propõe exigir flexibilidade de data centers para evitar custos aos consumidores",
-      "link": "https://megawhat.uol.com.br/politica-energetica/ons-propoe-exigir-flexibilidade-de-data-centers-para-evitar-custos-aos-consumidores/",
-      "resumo": "Sumara Ticom, assessora executiva da diretoria de Planejamento do ONS. Foto: Saulo Cruz/MME O Operador Nacional do Sistema Elétrico (ONS) defende que a conexão de grandes data…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/7b3lLJHl-36219969901_5d6c9c205a_c.jpg",
-      "data": "2026-11-13T18:11:59.000Z",
-      "fonte": "MegaWhat",
+      "titulo": "Combustíveis fósseis receberam mais que o dobro de subsídios em comparação com renováveis em 2025",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/13/combustiveis-fosseis-receberam-mais-que-o-dobro-de-subsidios-em-comparacao-com-renovaveis-em-2025/",
+      "resumo": "Levantamento do INESC identificou que renováveis receberam R$ 23 bilhões, contra R$ 54 bilhões para fósseis. Instituto recomenda uma revisão dos subsídios, a maior parte paga por…",
+      "imagem": "",
+      "data": "2026-11-13T19:30:00.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "MME destaca biocombustíveis, hidrelétricas e acesso à energia na Amazônia na COP31",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/13/mme-destaca-biocombustiveis-hidreletricas-e-acesso-a-energia-na-amazonia-na-cop31/",
+      "resumo": "Ministério apresentou políticas para descarbonização dos transportes, expansão e modernização da geração hídrica e atendimento a comunidades isoladas. Ministro Alexandre Silveira…",
+      "imagem": "",
+      "data": "2026-11-13T19:12:18.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Painéis solares em telhados crescem em ritmo inédito e ameaçam colapsar sistema, aponta estudo",
+      "link": "https://www.osetoreletrico.com.br/paineis-solares-em-telhados-crescem-em-ritmo-inedito-e-ameacam-colapsar-sistema-aponta-estudo/",
+      "resumo": "Levantamento encomendado pela Abradee aponta transferência bilionária de custos aos demais consumidores e propõe mudanças na estrutura tarifária A expansão acelerada da micro e…",
+      "imagem": "https://www.osetoreletrico.com.br/wp-content/uploads/2026/11/image.png",
+      "data": "2026-11-13T19:02:48.000Z",
+      "fonte": "O Setor Elétrico",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Energia renovável pode colocar o Brasil no centro da expansão global dos data centers",
-      "link": "https://megawhat.uol.com.br/opiniao-da-comunidade/energia-renovavel-pode-colocar-o-brasil-no-centro-da-expansao-global-dos-data-centers/",
-      "resumo": "Marcos Borin, fundador e CEO da CTC Infra, construtora especializada em empreendimentos de alta complexidade e missão crítica. Por: Marcos Borin* A corrida global pela IA está…",
-      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2026/11/Thumb-Opiniao-da-Comunidade-V2-Azul-e-Roxo.png",
-      "data": "2026-11-13T17:14:09.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Light espera que Aneel considere plano de perdas na revisão tarifária de 2027",
-      "link": "https://megawhat.uol.com.br/economia-e-politica/resultados/light-espera-que-aneel-considere-plano-de-perdas-na-revisao-tarifaria-de-2027/",
-      "resumo": "Problema dos furtos ou \"gatos\" de energia elétrica é um dos principais desafios da Light. A Light confirmou ter entregado à Agência Nacional de Energia Elétrica (Aneel) seu plano…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/Light_Poste_Furtos-1.jpg",
-      "data": "2026-11-13T16:50:40.000Z",
-      "fonte": "MegaWhat",
+      "titulo": "GoBid usa inteligência artificial para revolucionar o planejamento de linhas de transmissão",
+      "link": "https://www.osetoreletrico.com.br/gobid-usa-inteligencia-artificial-para-revolucionar-o-planejamento-de-linhas-de-transmissao/",
+      "resumo": "Desenvolvida pela Ambientare Geotech em parceria com a Taesa Ventures, solução surgiu de projeto de Pesquisa, Desenvolvimento e Inovação da ANEEL e transforma análise de dados…",
+      "imagem": "",
+      "data": "2026-11-12T21:33:23.000Z",
+      "fonte": "O Setor Elétrico",
       "categoria": "Setor Elétrico"
     },
     {
@@ -65,22 +110,22 @@
       "categoria": "Mobilidade Elétrica"
     },
     {
-      "titulo": "Locadoras podem acelerar a eletromobilidade e criar novas oportunidades de negócios, destaca ABVE na EXPO ABLA",
-      "link": "https://abve.org.br/locadoras-podem-acelerar-a-eletromobilidade-e-criar-novas-oportunidades-de-negocios-destaca-abve-na-expo-abla-2026-2/?utm_source=rss&utm_medium=rss&utm_campaign=locadoras-podem-acelerar-a-eletromobilidade-e-criar-novas-oportunidades-de-negocios-destaca-abve-na-expo-abla-2026-2",
-      "resumo": "A expansão dos veículos eletrificados no Brasil abre novas oportunidades para o mercado de locação, tanto na diversificação das frotas quanto na oferta de serviços que facilitem a…",
+      "titulo": "Isabella Sene | 5ª Reunião da Diretoria da Aneel 2026 | Custeio do encargo de reserva de capacidade",
+      "link": "https://www.absolar.org.br/videos/isabella-sene-5a-reuniao-da-diretoria-da-aneel-2026-custeio-do-encargo-de-reserva-de-capacidade/",
+      "resumo": "HomeA Gerente Técnica-Regulatório da ABSOLAR, Isabella Sene, abordou o custeio do encargo de reserva de capacidade, os ajustes propostos pela ABSOLAR aos editais do LRCAP 2026 e a…",
       "imagem": "",
-      "data": "2026-10-30T14:30:27.000Z",
-      "fonte": "ABVE",
-      "categoria": "Mobilidade Elétrica"
+      "data": "2026-10-28T13:55:50.000Z",
+      "fonte": "ABSOLAR",
+      "categoria": "Energia Solar"
     },
     {
-      "titulo": "Locadoras podem acelerar a eletromobilidade e criar novas oportunidades de negócios, destaca ABVE na EXPO ABLA 2026",
-      "link": "https://abve.org.br/locadoras-podem-acelerar-a-eletromobilidade-e-criar-novas-oportunidades-de-negocios-destaca-abve-na-expo-abla-2026/?utm_source=rss&utm_medium=rss&utm_campaign=locadoras-podem-acelerar-a-eletromobilidade-e-criar-novas-oportunidades-de-negocios-destaca-abve-na-expo-abla-2026",
-      "resumo": "A expansão dos veículos eletrificados no Brasil abre novas oportunidades para o mercado de locação, tanto na diversificação das frotas quanto na oferta de serviços que facilitem a…",
+      "titulo": "Você está preparado para o Mercado Livre de Energia? | Rafael Valim | Coordenador GTML ABSOLAR",
+      "link": "https://www.absolar.org.br/videos/voce-esta-preparado-para-o-mercado-livre-de-energia-rafael-valim-coordenador-gtml-absolar/",
+      "resumo": "Home As transformações do setor elétrico já estão impactando o seu negócio. Quem está representando os seus interesses? A abertura do Mercado Livre de Energia traz oportunidades…",
       "imagem": "",
-      "data": "2026-10-30T14:02:30.000Z",
-      "fonte": "ABVE",
-      "categoria": "Mobilidade Elétrica"
+      "data": "2026-10-28T13:50:53.000Z",
+      "fonte": "ABSOLAR",
+      "categoria": "Energia Solar"
     }
   ],
   "newsletter": []
