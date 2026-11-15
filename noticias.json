@@ -1,5 +1,87 @@
 {
-  "atualizadoEm": null,
-  "setor": [],
+  "atualizadoEm": "2026-11-15T15:51:31.310Z",
+  "setor": [
+    {
+      "titulo": "ANP retoma revisão tarifária de transporte de gás em reunião extraordinária na quarta-feira",
+      "link": "https://megawhat.uol.com.br/oleo-e-gas/anp-retoma-revisao-tarifaria-de-transporte-de-gas-em-reuniao-extraordinaria-na-quarta-feira/",
+      "resumo": "A diretoria colegiada da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) retomará o processo de revisão tarifária do transporte de gás, em reunião extraordinária…",
+      "imagem": "",
+      "data": "2026-11-13T20:53:01.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Arnaldo Jardim vê caminho para aprovar PL das baterias com texto mais restrito",
+      "link": "https://megawhat.uol.com.br/armazenamento/arnaldo-jardim-ve-caminho-para-aprovar-pl-das-baterias-com-texto-mais-restrito/",
+      "resumo": "PL é de autoria do deputado Arnaldo Jardim / Crédito: Mario Agra / Câmara dos Deputados A aprovação do projeto de lei (PL) nº 3.716/2026, que altera o rateio dos custos de…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/09/e1pWCt9S-Deputado-Arnaldo-Jardim.-Foto-de-Mario-Agra-Camara-dos-Deputados.jpg",
+      "data": "2026-11-13T20:00:00.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "ONS propõe exigir flexibilidade de data centers para evitar custos aos consumidores",
+      "link": "https://megawhat.uol.com.br/politica-energetica/ons-propoe-exigir-flexibilidade-de-data-centers-para-evitar-custos-aos-consumidores/",
+      "resumo": "Sumara Ticom, assessora executiva da diretoria de Planejamento do ONS. Foto: Saulo Cruz/MME O Operador Nacional do Sistema Elétrico (ONS) defende que a conexão de grandes data…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/7b3lLJHl-36219969901_5d6c9c205a_c.jpg",
+      "data": "2026-11-13T18:11:59.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Energia renovável pode colocar o Brasil no centro da expansão global dos data centers",
+      "link": "https://megawhat.uol.com.br/opiniao-da-comunidade/energia-renovavel-pode-colocar-o-brasil-no-centro-da-expansao-global-dos-data-centers/",
+      "resumo": "Marcos Borin, fundador e CEO da CTC Infra, construtora especializada em empreendimentos de alta complexidade e missão crítica. Por: Marcos Borin* A corrida global pela IA está…",
+      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2026/11/Thumb-Opiniao-da-Comunidade-V2-Azul-e-Roxo.png",
+      "data": "2026-11-13T17:14:09.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Light espera que Aneel considere plano de perdas na revisão tarifária de 2027",
+      "link": "https://megawhat.uol.com.br/economia-e-politica/resultados/light-espera-que-aneel-considere-plano-de-perdas-na-revisao-tarifaria-de-2027/",
+      "resumo": "Problema dos furtos ou \"gatos\" de energia elétrica é um dos principais desafios da Light. A Light confirmou ter entregado à Agência Nacional de Energia Elétrica (Aneel) seu plano…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/Light_Poste_Furtos-1.jpg",
+      "data": "2026-11-13T16:50:40.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Brasil dá primeiro passo para Estratégia Nacional de Eletromobilidade",
+      "link": "https://abve.org.br/brasil-da-primeiro-passo-para-estrategia-nacional-de-eletromobilidade/?utm_source=rss&utm_medium=rss&utm_campaign=brasil-da-primeiro-passo-para-estrategia-nacional-de-eletromobilidade",
+      "resumo": "O Conselho Nacional de Política Energética (CNPE), aprovou, nesta sexta-feira (6/11), a criação do Grupo de Trabalho de Eletromobilidade. O colegiado fornecerá subsídios técnicos e…",
+      "imagem": "",
+      "data": "2026-11-06T15:04:19.000Z",
+      "fonte": "ABVE",
+      "categoria": "Mobilidade Elétrica"
+    },
+    {
+      "titulo": "Veículos elétricos e energia solar: uma combinação que amplia as possibilidades de economia",
+      "link": "https://abve.org.br/veiculos-eletricos-e-energia-solar-uma-combinacao-que-amplia-as-possibilidades-de-economia/?utm_source=rss&utm_medium=rss&utm_campaign=veiculos-eletricos-e-energia-solar-uma-combinacao-que-amplia-as-possibilidades-de-economia",
+      "resumo": "A expansão dos veículos elétricos no Brasil abre novas oportunidades de integração entre mobilidade e geração de energia. Consumidores, empresas e condomínios podem combinar a…",
+      "imagem": "",
+      "data": "2026-11-06T14:34:09.000Z",
+      "fonte": "ABVE",
+      "categoria": "Mobilidade Elétrica"
+    },
+    {
+      "titulo": "Locadoras podem acelerar a eletromobilidade e criar novas oportunidades de negócios, destaca ABVE na EXPO ABLA",
+      "link": "https://abve.org.br/locadoras-podem-acelerar-a-eletromobilidade-e-criar-novas-oportunidades-de-negocios-destaca-abve-na-expo-abla-2026-2/?utm_source=rss&utm_medium=rss&utm_campaign=locadoras-podem-acelerar-a-eletromobilidade-e-criar-novas-oportunidades-de-negocios-destaca-abve-na-expo-abla-2026-2",
+      "resumo": "A expansão dos veículos eletrificados no Brasil abre novas oportunidades para o mercado de locação, tanto na diversificação das frotas quanto na oferta de serviços que facilitem a…",
+      "imagem": "",
+      "data": "2026-10-30T14:30:27.000Z",
+      "fonte": "ABVE",
+      "categoria": "Mobilidade Elétrica"
+    },
+    {
+      "titulo": "Locadoras podem acelerar a eletromobilidade e criar novas oportunidades de negócios, destaca ABVE na EXPO ABLA 2026",
+      "link": "https://abve.org.br/locadoras-podem-acelerar-a-eletromobilidade-e-criar-novas-oportunidades-de-negocios-destaca-abve-na-expo-abla-2026/?utm_source=rss&utm_medium=rss&utm_campaign=locadoras-podem-acelerar-a-eletromobilidade-e-criar-novas-oportunidades-de-negocios-destaca-abve-na-expo-abla-2026",
+      "resumo": "A expansão dos veículos eletrificados no Brasil abre novas oportunidades para o mercado de locação, tanto na diversificação das frotas quanto na oferta de serviços que facilitem a…",
+      "imagem": "",
+      "data": "2026-10-30T14:02:30.000Z",
+      "fonte": "ABVE",
+      "categoria": "Mobilidade Elétrica"
+    }
+  ],
   "newsletter": []
 }
