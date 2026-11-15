@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-15T16:20:06.530Z",
+  "atualizadoEm": "2026-11-15T16:22:34.221Z",
   "setor": [
     {
       "titulo": "Descobriram um jeito de apagar incêndios nas baterias dos carros elétricos de forma mais rápida",
@@ -20,24 +20,6 @@
       "categoria": "Mobilidade Elétrica"
     },
     {
-      "titulo": "O que leva a ANP a chamar as transportadoras de “vacas leiteiras”?",
-      "link": "https://eixos.com.br/newsletters/newsletter-gas-week/o-que-leva-a-anp-a-chamar-as-transportadoras-de-vacas-leiteiras/",
-      "resumo": "NTS e TAG pagaram aos acionistas até 16 vezes o que as empresas investiram na rede de gasodutos e, em meio à revisão tarifária na ANP, ameaçam suspender investimentos O post O que…",
-      "imagem": "https://uploads.eixos.com.br/2026/05/Rede-de-gasoduto-da-NTS-Foto-Divulgacao-ORIGINAL.jpg",
-      "data": "2026-11-14T11:30:00.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Energia"
-    },
-    {
-      "titulo": "Fazenda não vai renovar subsídio de R$ 1,40 ao diesel importado",
-      "link": "https://eixos.com.br/combustiveis-e-bioenergia/fazenda-nao-vai-renovar-subsidio-de-r-140-ao-diesel-importado/",
-      "resumo": "Adicional criado em outubro venceu nesta semana; a subvenção de R$ 2,12 por litro a produtores e importadores segue em vigor O post Fazenda não vai renovar subsídio de R$ 1,40 ao…",
-      "imagem": "https://uploads.eixos.com.br/2026/10/Dario-Durigan-concede-coletiva-de-imprensa-sobre-o-mercado-financeiro-em-Brasilia-DF-em-27-de-outubro-de-2026-Foto-Washington-Costa-MF-1.jpg",
-      "data": "2026-11-13T21:59:04.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Energia"
-    },
-    {
       "titulo": "ANP retoma revisão tarifária de transporte de gás em reunião extraordinária na quarta-feira",
       "link": "https://megawhat.uol.com.br/oleo-e-gas/anp-retoma-revisao-tarifaria-de-transporte-de-gas-em-reuniao-extraordinaria-na-quarta-feira/",
       "resumo": "A diretoria colegiada da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) retomará o processo de revisão tarifária do transporte de gás, em reunião extraordinária…",
@@ -53,6 +35,15 @@
       "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/09/e1pWCt9S-Deputado-Arnaldo-Jardim.-Foto-de-Mario-Agra-Camara-dos-Deputados.jpg",
       "data": "2026-11-13T20:00:00.000Z",
       "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Leilões de energia existente movimentam R$ 14,25 bilhões; Axia e BTG lideram vendas",
+      "link": "https://eixos.com.br/energia/leiloes-de-energia-existente-movimentam-r-1425-bilhoes-axia-e-btg-lideram-vendas/",
+      "resumo": "Distribuidoras contrataram 2.859,7 MW médios nos certames A-1, A-2 e A-3; ao todo, 47 empresas venderam energia O post Leilões de energia existente movimentam R$ 14,25 bilhões…",
+      "imagem": "https://uploads.eixos.com.br/2026/10/Subestacao-de-Ivaipora-no-Parana.-Foto-Divulgacao-AXIA-Energia.jpeg",
+      "data": "2026-11-13T19:50:45.000Z",
+      "fonte": "agência eixos",
       "categoria": "Setor Elétrico"
     },
     {
@@ -83,6 +74,24 @@
       "categoria": "Setor Elétrico"
     },
     {
+      "titulo": "ONS propõe exigir flexibilidade de data centers para evitar custos aos consumidores",
+      "link": "https://megawhat.uol.com.br/politica-energetica/ons-propoe-exigir-flexibilidade-de-data-centers-para-evitar-custos-aos-consumidores/",
+      "resumo": "Sumara Ticom, assessora executiva da diretoria de Planejamento do ONS. Foto: Saulo Cruz/MME O Operador Nacional do Sistema Elétrico (ONS) defende que a conexão de grandes data…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/7b3lLJHl-36219969901_5d6c9c205a_c.jpg",
+      "data": "2026-11-13T18:11:59.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Leilões de energia existente contratam 2.859,7 MW médios para 31 distribuidoras",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/13/leiloes-de-energia-existente-contratam-2-8597-mw-medios-para-31-distribuidoras/",
+      "resumo": "As concorrências tinham como meta comercializar energia elétrica produzida em usinas já em operação, com o intuito de garantir o abastecimento das distribuidoras e assegurar o…",
+      "imagem": "",
+      "data": "2026-11-13T17:51:00.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
       "titulo": "GoBid usa inteligência artificial para revolucionar o planejamento de linhas de transmissão",
       "link": "https://www.osetoreletrico.com.br/gobid-usa-inteligencia-artificial-para-revolucionar-o-planejamento-de-linhas-de-transmissao/",
       "resumo": "Desenvolvida pela Ambientare Geotech em parceria com a Taesa Ventures, solução surgiu de projeto de Pesquisa, Desenvolvimento e Inovação da ANEEL e transforma análise de dados…",
@@ -92,40 +101,40 @@
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Brasil dá primeiro passo para Estratégia Nacional de Eletromobilidade",
-      "link": "https://abve.org.br/brasil-da-primeiro-passo-para-estrategia-nacional-de-eletromobilidade/?utm_source=rss&utm_medium=rss&utm_campaign=brasil-da-primeiro-passo-para-estrategia-nacional-de-eletromobilidade",
-      "resumo": "O Conselho Nacional de Política Energética (CNPE), aprovou, nesta sexta-feira (6/11), a criação do Grupo de Trabalho de Eletromobilidade. O colegiado fornecerá subsídios técnicos e…",
+      "titulo": "Equatorial consolida trajetória de inovação e será anfitriã no seminário nacional de Inovação do setor elétrico",
+      "link": "https://www.osetoreletrico.com.br/equatorial-consolida-trajetoria-de-inovacao-e-sera-anfitria-no-seminario-nacional-de-inovacao-do-setor-eletrico/",
+      "resumo": "Grupo avançou no ranking Valor Inovação, está entre os finalistas do Prêmio VMO do Ano e sediará, pela primeira vez, o Seminário Abradee de Melhores Práticas em Inovação, em São…",
       "imagem": "",
-      "data": "2026-11-06T15:04:19.000Z",
-      "fonte": "ABVE",
+      "data": "2026-11-12T21:26:00.000Z",
+      "fonte": "O Setor Elétrico",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "ABGD vira RED e aposta em usinas virtuais para superar barreiras da geração distribuída",
+      "link": "https://eixos.com.br/solar/abgd-vira-red-e-aposta-em-usinas-virtuais-para-superar-barreiras-da-geracao-distribuida/",
+      "resumo": "Nova presidente, Roseane Santos, defende integração de geração, baterias e consumo e propõe pacto entre agentes do setor elétrico O post ABGD vira RED e aposta em usinas virtuais…",
+      "imagem": "https://uploads.eixos.com.br/2026/11/WhatsApp-Image-2026-11-12-at-14.59.37-e1794517749212.jpeg",
+      "data": "2026-11-12T20:16:47.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Os planos da Eneva para seus novos terminais de GNL",
+      "link": "https://eixos.com.br/gas-natural/mercado-de-gas/os-planos-da-eneva-para-seus-novos-terminais-de-gnl/",
+      "resumo": "Intenção da Eneva é usar capacidade remanescente de regaseificação para viabilizar novas usinas e ampliar mesa de comercialização de gás O post Os planos da Eneva para seus novos…",
+      "imagem": "https://uploads.eixos.com.br/2026/11/Transferencia-de-GNL-ship-to-ship-no-terminal-do-Porto-de-Sergipe-porta-de-entrada-de-gas-natural-no-estado-Foto-Divulgacao-Celse.jpg",
+      "data": "2026-11-12T19:08:29.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "BYD revela na Fenatran o M025, caminhão pesado para 80 toneladas com bateria de 600 kWh",
+      "link": "https://insideevs.uol.com.br/news/815276/byd-m025-caminhao-eletrico-fenatran/",
+      "resumo": "Novidade tem 265 kgfm de torque e autonomia pode chegar a 325 km",
+      "imagem": "https://cdn.motor1.com/images/mgl/BX1pXe/s3/byd-m025-na-fenatran.jpg",
+      "data": "2026-11-12T15:03:45.000Z",
+      "fonte": "InsideEVs Brasil",
       "categoria": "Mobilidade Elétrica"
-    },
-    {
-      "titulo": "Veículos elétricos e energia solar: uma combinação que amplia as possibilidades de economia",
-      "link": "https://abve.org.br/veiculos-eletricos-e-energia-solar-uma-combinacao-que-amplia-as-possibilidades-de-economia/?utm_source=rss&utm_medium=rss&utm_campaign=veiculos-eletricos-e-energia-solar-uma-combinacao-que-amplia-as-possibilidades-de-economia",
-      "resumo": "A expansão dos veículos elétricos no Brasil abre novas oportunidades de integração entre mobilidade e geração de energia. Consumidores, empresas e condomínios podem combinar a…",
-      "imagem": "",
-      "data": "2026-11-06T14:34:09.000Z",
-      "fonte": "ABVE",
-      "categoria": "Mobilidade Elétrica"
-    },
-    {
-      "titulo": "Isabella Sene | 5ª Reunião da Diretoria da Aneel 2026 | Custeio do encargo de reserva de capacidade",
-      "link": "https://www.absolar.org.br/videos/isabella-sene-5a-reuniao-da-diretoria-da-aneel-2026-custeio-do-encargo-de-reserva-de-capacidade/",
-      "resumo": "HomeA Gerente Técnica-Regulatório da ABSOLAR, Isabella Sene, abordou o custeio do encargo de reserva de capacidade, os ajustes propostos pela ABSOLAR aos editais do LRCAP 2026 e a…",
-      "imagem": "",
-      "data": "2026-10-28T13:55:50.000Z",
-      "fonte": "ABSOLAR",
-      "categoria": "Energia Solar"
-    },
-    {
-      "titulo": "Você está preparado para o Mercado Livre de Energia? | Rafael Valim | Coordenador GTML ABSOLAR",
-      "link": "https://www.absolar.org.br/videos/voce-esta-preparado-para-o-mercado-livre-de-energia-rafael-valim-coordenador-gtml-absolar/",
-      "resumo": "Home As transformações do setor elétrico já estão impactando o seu negócio. Quem está representando os seus interesses? A abertura do Mercado Livre de Energia traz oportunidades…",
-      "imagem": "",
-      "data": "2026-10-28T13:50:53.000Z",
-      "fonte": "ABSOLAR",
-      "categoria": "Energia Solar"
     }
   ],
   "newsletter": []
