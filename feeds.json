@@ -1,0 +1,15 @@
+{
+  "_instrucoes": "Edite as listas abaixo. Feeds que falharem são ignorados e aparecem no log da Action.",
+  "limitePorFeed": 5,
+  "limiteTotalSetor": 9,
+  "limiteNewsletter": 3,
+  "setor": [
+    { "nome": "Canal Solar", "categoria": "Energia Solar", "url": "https://canalsolar.com.br/feed/" },
+    { "nome": "CanalEnergia", "categoria": "Setor Elétrico", "url": "https://www.canalenergia.com.br/feed" },
+    { "nome": "MegaWhat", "categoria": "Setor Elétrico", "url": "https://megawhat.energy/feed" },
+    { "nome": "ABVE", "categoria": "Mobilidade Elétrica", "url": "https://abve.org.br/feed/" }
+  ],
+  "newsletter": [
+    { "nome": "Newsletter Vectrya", "categoria": "Newsletter", "url": "https://SEU-NOME.substack.com/feed" }
+  ]
+}
