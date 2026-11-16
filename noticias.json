@@ -1,6 +1,33 @@
 {
-  "atualizadoEm": "2026-11-15T16:22:34.221Z",
+  "atualizadoEm": "2026-11-16T10:31:55.776Z",
   "setor": [
+    {
+      "titulo": "CATL detalha especificações e disponibilidade do sistema de baterias Tener Sodium",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/16/clarifying-the-catl-tener-sodium-with-new-specifications-and-availability/",
+      "resumo": "Novas especificações da bateria de íons de sódio da CATL, com duração de quatro horas, mostram como a empresa pretende posicionar o produto em relação às baterias de fosfato de…",
+      "imagem": "",
+      "data": "2026-11-16T10:20:00.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Baterias de sódio reduzem diferença em relação às de lítio com expansão de armazenamento em larga escala",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/16/sodium-ion-batteries-close-gap-with-lithium-ion-as-utility-scale-storage-opportunities-grow/",
+      "resumo": "Baterias de íons de sódio estão se aproximando do desempenho das baterias de íons de lítio em aspectos importantes, com células comerciais alcançando densidade energética de 175…",
+      "imagem": "",
+      "data": "2026-11-16T10:19:00.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Revisão de cortes renováveis pode conter alta dos preços de energia",
+      "link": "https://megawhat.uol.com.br/economia-e-politica/empresas/revisao-de-cortes-renovaveis-pode-conter-alta-dos-precos-de-energia/",
+      "resumo": "Uma eventual mudança na forma de representar os cortes de geração eólica e solar nos modelos de formação de preços poderia aumentar em 1,3 GW médios a oferta renovável considerada…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Analise-conta-contrato-negocio-Foto-Pixabay-38.jpg",
+      "data": "2026-11-16T10:00:00.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
     {
       "titulo": "Descobriram um jeito de apagar incêndios nas baterias dos carros elétricos de forma mais rápida",
       "link": "https://insideevs.uol.com.br/news/815502/novo-m%C3%A9todo-apagar-incendio-baterias/",
@@ -56,15 +83,6 @@
       "categoria": "Energia Solar"
     },
     {
-      "titulo": "MME destaca biocombustíveis, hidrelétricas e acesso à energia na Amazônia na COP31",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/13/mme-destaca-biocombustiveis-hidreletricas-e-acesso-a-energia-na-amazonia-na-cop31/",
-      "resumo": "Ministério apresentou políticas para descarbonização dos transportes, expansão e modernização da geração hídrica e atendimento a comunidades isoladas. Ministro Alexandre Silveira…",
-      "imagem": "",
-      "data": "2026-11-13T19:12:18.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
       "titulo": "Painéis solares em telhados crescem em ritmo inédito e ameaçam colapsar sistema, aponta estudo",
       "link": "https://www.osetoreletrico.com.br/paineis-solares-em-telhados-crescem-em-ritmo-inedito-e-ameacam-colapsar-sistema-aponta-estudo/",
       "resumo": "Levantamento encomendado pela Abradee aponta transferência bilionária de custos aos demais consumidores e propõe mudanças na estrutura tarifária A expansão acelerada da micro e…",
@@ -72,24 +90,6 @@
       "data": "2026-11-13T19:02:48.000Z",
       "fonte": "O Setor Elétrico",
       "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "ONS propõe exigir flexibilidade de data centers para evitar custos aos consumidores",
-      "link": "https://megawhat.uol.com.br/politica-energetica/ons-propoe-exigir-flexibilidade-de-data-centers-para-evitar-custos-aos-consumidores/",
-      "resumo": "Sumara Ticom, assessora executiva da diretoria de Planejamento do ONS. Foto: Saulo Cruz/MME O Operador Nacional do Sistema Elétrico (ONS) defende que a conexão de grandes data…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/7b3lLJHl-36219969901_5d6c9c205a_c.jpg",
-      "data": "2026-11-13T18:11:59.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Leilões de energia existente contratam 2.859,7 MW médios para 31 distribuidoras",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/13/leiloes-de-energia-existente-contratam-2-8597-mw-medios-para-31-distribuidoras/",
-      "resumo": "As concorrências tinham como meta comercializar energia elétrica produzida em usinas já em operação, com o intuito de garantir o abastecimento das distribuidoras e assegurar o…",
-      "imagem": "",
-      "data": "2026-11-13T17:51:00.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
     },
     {
       "titulo": "GoBid usa inteligência artificial para revolucionar o planejamento de linhas de transmissão",
