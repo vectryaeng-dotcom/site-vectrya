@@ -1,68 +1,113 @@
 {
-  "atualizadoEm": "2026-11-18T09:50:18.222Z",
+  "atualizadoEm": "2026-11-19T09:52:36.126Z",
   "setor": [
     {
-      "titulo": "Aneel acolhe recursos de seis consórcios no leilão de reserva, mas impõe condições",
-      "link": "https://eixos.com.br/energia-eletrica/aneel-acolhe-recursos-de-seis-consorcios-no-leilao-de-reserva-mas-impoe-condicoes/",
-      "resumo": "Agência condicionou a habilitação definitiva à comprovação da efetiva entrada de recursos financeiros considerados nos balanços das empresas O post Aneel acolhe recursos de seis…",
-      "imagem": "https://uploads.eixos.com.br/2024/09/Fachada-da-sede-da-Aneel-em-Brasilia-DF-Foto-Reproducao-Aneel.webp",
-      "data": "2026-11-17T23:50:02.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Aneel tem novo pedido de vista em recurso da TermoG contra inabilitação em leilão",
-      "link": "https://eixos.com.br/energia-eletrica/aneel-tem-novo-pedido-de-vista-em-recurso-da-termog-contra-inabilitacao-em-leilao/",
-      "resumo": "Após o diretor Gentil Nogueira apresentar voto-vista acompanhando o relator, o diretor Willamy Frota pediu vista do processo nesta terça (17) O post Aneel tem novo pedido de vista…",
-      "imagem": "https://uploads.eixos.com.br/2026/09/Willamy-Frota-durante-reuniao-de-diretoria-da-Aneel-Foto-Giuliana-Vinci-Aneel.jpg",
-      "data": "2026-11-17T23:41:20.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Enel SP: o que acontece após novo adiamento na Aneel",
-      "link": "https://megawhat.uol.com.br/distribuicao/enel-sp-o-que-acontece-apos-novo-adiamento-na-aneel/",
-      "resumo": "A decisão da Agência Nacional de Energia Elétrica (Aneel) sobre a recomendação de caducidade da concessão da Enel São Paulo pode ficar para 2027, após o pedido de vista do…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Enel-Distribuicao-Sao-Paulo-Antiga-Eletropaulo-Edificio-Sede-Noturna-Foto-Divulgacao.jpg",
-      "data": "2026-11-17T23:05:51.000Z",
+      "titulo": "Copel chega à troca de governo com foco em retorno e concorrência",
+      "link": "https://megawhat.uol.com.br/distribuicao/copel-chega-a-troca-de-governo-com-foco-em-retorno-e-concorrencia/",
+      "resumo": "Três anos após sua privatização, a Copel se prepara para a primeira troca de governo no Paraná desde que deixou de ter um acionista controlador. Indicado por Ratinho Junior (PSD)…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Edificio-sede-Copel-Curitiba-Foto-Agencia-Estadual-de-Noticias-Governo-do-Parana-23.jpg",
+      "data": "2026-11-19T03:00:00.000Z",
       "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Aneel adia análise de processo sobre compartilhamento de postes",
-      "link": "https://eixos.com.br/energia-eletrica/aneel-adia-analise-de-processo-sobre-compartilhamento-de-postes/",
-      "resumo": "O diretor Willamy Frota pediu o adiamento da análise para aguardar a deliberação do Senado sobre o projeto de lei 3220/2019 O post Aneel adia análise de processo sobre…",
-      "imagem": "https://uploads.eixos.com.br/2026/01/Postes-de-rede-eletrica-proximo-ao-Colegio-Militar-de-Brasilia-no-bairo-da-Asa-Norte-Foto-Marcello-Casal-Jr_Agencia-Brasil.jpg",
-      "data": "2026-11-17T22:57:13.000Z",
+      "titulo": "Associações defendem aprovação do texto original do PL das baterias",
+      "link": "https://eixos.com.br/politica/associacoes-defendem-aprovacao-do-texto-original-do-pl-das-baterias/",
+      "resumo": "As manifestações reforçaram a pressão para concentrar o projeto na mudança do rateio, sem reabrir outras disputas da reforma do setor elétrico O post Associações defendem aprovação…",
+      "imagem": "https://uploads.eixos.com.br/2026/10/WhatsApp-Image-2026-10-06-at-15.14.40.jpeg",
+      "data": "2026-11-18T21:29:31.000Z",
       "fonte": "agência eixos",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Caducidade da Enel SP tem decisão novamente adiada pela Aneel",
-      "link": "https://megawhat.uol.com.br/regulacao/caducidade-da-enel-sp-tem-nova-decisao-adiada-na-aneel/",
-      "resumo": "Sede da Enel em Niterói, no Rio de Janeiro - Divulgação A diretoria da Agência Nacional de Energia Elétrica (Aneel) adiou novamente a decisão sobre a recomendação de caducidade da…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/Edificio-Sede-Enel-Niteroi-Foto-Divulgacao.jpg",
-      "data": "2026-11-17T21:39:55.000Z",
+      "titulo": "Consumo de gás por térmicas deve aumentar 78% até 2036, indica EPE",
+      "link": "https://megawhat.uol.com.br/geracao/termica/consumo-de-gas-por-termicas-deve-aumentar-78-ate-2036-indica-epe/",
+      "resumo": "Térmica a gás natural | Foto: Acervo Agência Brasil O consumo médio de gás natural para geração termelétrica deve passar dos de 14 milhões de m³ por dia em 2026 para 25 milhões de…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Termica-a-Gas-Natural-Acervo-Agencia-Brasil-EBD-7.jpg",
+      "data": "2026-11-18T20:14:43.000Z",
       "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "EPP reverte inabilitação de 1,7 GW no LRCap, mas terá que comprovar recursos",
-      "link": "https://megawhat.uol.com.br/regulacao/epp-reverte-inabilitacao-de-17-gw-no-lrcap-mas-tera-que-comprovar-recursos/",
-      "resumo": "Foto: Bill-Oxford-on-Unsplash A Agência Nacional de Energia Elétrica (Aneel) reverteu, por maioria, nesta terça-feira, 17 de novembro, a inabilitação dos seis consórcios ION…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Martelo_leilao_Photo-by-Bill-Oxford-on-Unsplash-44.jpg",
-      "data": "2026-11-17T21:12:06.000Z",
+      "titulo": "Setor elétrico bate recorde com 171 operações analisadas pelo Cade em 2025",
+      "link": "https://megawhat.uol.com.br/regulacao/setor-eletrico-bate-recorde-com-171-operacoes-julgadas-pelo-cade-em-2025/",
+      "resumo": "Acordo / Crédito: FreePik Levantamento da MegaWhat identifica pelo menos 43 registros de negócios envolvendo autoprodução de energia no ano; Cade julgou 171 operações, alta de 58%…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/06/Aperto-de-maos-negocios-imagem-de-rawpixel.com-no-FreePik-MegaWhat-1.jpg",
+      "data": "2026-11-18T19:54:57.000Z",
       "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Geração distribuída compartilhada pode ter permanência mínima de 12 meses",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/17/geracao-distribuida-compartilhada-pode-ter-permanencia-minima-de-12-meses/",
-      "resumo": "Aneel quer restringir modelos de comercialização de descontos na conta de luz por meio da MMGD. Proposta em consulta pública também prevê novas regras para participação em…",
+      "titulo": "Previsão de maior consumo do Paraguai em Itaipu acende alerta para preços da energia no Brasil",
+      "link": "https://eixos.com.br/energia-eletrica/previsao-de-maior-consumo-do-paraguai-em-itaipu-acende-alerta-para-precos-da-energia-no-brasil/",
+      "resumo": "Abrace pede à Aneel medida cautelar para limitar a 3.875 MW médios a carga paraguaia nos modelos a partir de janeiro; proposta da ENBPar prevê teto de 7.000 MW médios O post…",
+      "imagem": "https://uploads.eixos.com.br/2026/06/WhatsApp-Image-2026-06-17-at-15.27.02.jpeg",
+      "data": "2026-11-18T19:33:43.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Após pedido de suspensão de leilões de baterias, Absae alerta para riscos de adiamento",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/18/apos-pedido-de-suspensao-de-leiloes-de-baterias-absae-alerta-para-riscos-de-adiamento/",
+      "resumo": "A ação judicial e as indefinições regulatórias sobre o custeio e a remuneração das baterias aumentam a incerteza às vésperas do encerramento das inscrições, em 20 de novembro, e do…",
       "imagem": "",
-      "data": "2026-11-17T19:33:58.000Z",
+      "data": "2026-11-18T19:33:00.000Z",
       "fonte": "pv magazine Brasil",
       "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "COP31 discute meta de 35% de eletrificação até 2035",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/18/cop31-discute-meta-de-35-de-eletrificacao-ate-2035-e-avanco-da-transicao-dos-combustiveis-fosseis/",
+      "resumo": "Primeira minuta de decisão da conferência propõe ampliar a participação da eletricidade no consumo global de energia, atualmente em 23%. Paralelamente, coalizão de 30 países busca…",
+      "imagem": "",
+      "data": "2026-11-18T19:28:19.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Ciência de materiais ganha protagonismo na evolução de condutores elétricos",
+      "link": "https://www.osetoreletrico.com.br/ciencia-de-materiais-ganha-protagonismo-na-evolucao-de-condutores-eletricos/",
+      "resumo": "Da resistência à umidade ao aumento davida útil do cabo, entenda como a tecnologia de polímeros vem respondendo aos desafios da modernização das redes elétricas A expansão das…",
+      "imagem": "",
+      "data": "2026-11-18T19:08:29.000Z",
+      "fonte": "O Setor Elétrico",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "ONS poderá coordenar cortes de geração distribuída por meio das distribuidoras",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/18/ons-podera-coordenar-cortes-de-geracao-distribuida-por-meio-das-distribuidoras/",
+      "resumo": "Proposta prevê experimento de 24 meses com cinco concessionárias e participação obrigatória de minigeradores, sem remuneração ou ressarcimento pelos cortes. Consulta pública…",
+      "imagem": "",
+      "data": "2026-11-18T18:43:14.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Brasil tem 32,9 veículos eletrificados por eletroposto e concentra rede no Sul e Sudeste, mostra estudo",
+      "link": "https://eixos.com.br/energia-eletrica/brasil-tem-329-veiculos-eletrificados-por-eletroposto-e-concentra-rede-no-sul-e-sudeste-mostra-estudo/",
+      "resumo": "Levantamento da consultoria Bip aponta avanço de 254% nos carregadores rápidos, mas alerta para falta de padronização e aumento de 12 vezes no consumo de eletricidade até 2035 O…",
+      "imagem": "https://uploads.eixos.com.br/2024/07/Carro-eletrico-SUV-conectado-a-carregador-eletrico-Foto-Felix-Muller_Pixabay.jpeg",
+      "data": "2026-11-18T18:29:12.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Calor do verão pode expor falhas nas instalações elétricas das casas",
+      "link": "https://www.osetoreletrico.com.br/calor-do-verao-pode-expor-falhas-nas-instalacoes-eletricas-das-casas/",
+      "resumo": "O calor do verão aumenta a demanda de energia dentro de casa. Com temperaturas mais altas, ventiladores ficam ligados por longos períodos, aparelhos de ar-condicionado operam com…",
+      "imagem": "",
+      "data": "2026-11-18T18:06:56.000Z",
+      "fonte": "O Setor Elétrico",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Alckmin promete lei do \"direito à tomada\" e destrava carregador em prédio",
+      "link": "https://insideevs.uol.com.br/news/815909/abve-alckmin-carregadores-condominios-federal/",
+      "resumo": "Após reunião com a ABVE, vice-presidente avaliará lei federal de direito à recarga em condomínios, tema que trava carregadores",
+      "imagem": "https://cdn.motor1.com/images/mgl/JO61KM/s3/carros-em-carregadores-de-condominios.jpg",
+      "data": "2026-11-18T14:20:48.000Z",
+      "fonte": "InsideEVs Brasil",
+      "categoria": "Mobilidade Elétrica"
     },
     {
       "titulo": "Frota de veículos leves eletrificados poderá alcançar 9,7 milhões de unidades no Brasil em 2036, projeta PDE",
@@ -74,49 +119,13 @@
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Cemig investe R$ 5,8 bilhões para preparar rede elétrica de MG para eventos climáticos severos",
-      "link": "https://www.osetoreletrico.com.br/cemig-investe-r-58-bilhoes-para-preparar-rede-eletrica-de-mg-para-eventos-climaticos-severos/",
-      "resumo": "Companhia destina R$ 5,3 bilhões à modernização da infraestrutura elétrica, com previsão de entrega de 50 subestações até o fim de 2026, para ampliar a capacidade e a resiliência…",
-      "imagem": "https://www.osetoreletrico.com.br/wp-content/uploads/2026/11/cemig-prepara-rede2-1024x768.jpeg",
-      "data": "2026-11-17T17:26:38.000Z",
-      "fonte": "O Setor Elétrico",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Aneel aprova nova contabilização de excedentes da geração distribuída a partir de 2027",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/17/aneel-aprova-nova-contabilizacao-de-excedentes-da-geracao-distribuida-a-partir-de-2027/",
-      "resumo": "Medida permitirá liquidar no mercado de curto prazo a energia da MMGD que supera o consumo do mercado cativo, com resultados revertidos em benefício dos consumidores por meio das…",
-      "imagem": "",
-      "data": "2026-11-17T16:28:22.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
-      "titulo": "Eletrificação da indústria e dos transportes pode evitar até 190 milhões de toneladas de CO₂ por ano até 2050",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/17/eletrificacao-da-industria-e-dos-transportes-pode-evitar-ate-190-milhoes-de-toneladas-de-co%e2%82%82-por-ano-ate-2050/",
-      "resumo": "Relatório da PSR e do CEBDS aponta que custos da eletricidade, subsídios tarifários e falta de sinais horários de preço dificultam a substituição de combustíveis fósseis. Estudo…",
-      "imagem": "https://www.pv-magazine-brasil.com/wp-content/uploads/2026/05/ISA-energia-Paineis-solares-LInha-de-transmissao-PD-Aneel-1024x768.jpg",
-      "data": "2026-11-17T15:41:38.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
-      "titulo": "ABVE apresenta sete prioridades para o avanço da eletromobilidade em reunião com Geraldo Alckmin",
+      "titulo": "Em reunião com ABVE, Alckmin define sete prioridades para desenvolver a eletromobilidade",
       "link": "https://abve.org.br/abve-apresenta-sete-prioridades-para-o-avanco-da-eletromobilidade-em-reuniao-com-geraldo-alckmin/?utm_source=rss&utm_medium=rss&utm_campaign=abve-apresenta-sete-prioridades-para-o-avanco-da-eletromobilidade-em-reuniao-com-geraldo-alckmin",
-      "resumo": "A eletromobilidade brasileira deu mais um passo importante no diálogo com o governo federal! No dia 13 de novembro, o presidente da República em exercício, Geraldo Alckmin, recebeu…",
-      "imagem": "",
+      "resumo": "Em audiência à ABVE no último dia 13/11, em Brasília, o vice-presidente Geraldo Alckmin comprometeu-se a avaliar o encaminhamento de pelo menos sete pontos da agenda da…",
+      "imagem": "https://abve.org.br/wp-content/uploads/2026/11/ABVE-VPR-foto001-Credito-Cadu-Gomes-VPR.jpg",
       "data": "2026-11-17T13:05:04.000Z",
       "fonte": "ABVE",
       "categoria": "Mobilidade Elétrica"
-    },
-    {
-      "titulo": "CDEC 2026 reúne especialistas para discutir os desafios energéticos da expansão dos data centers no Brasil",
-      "link": "https://www.osetoreletrico.com.br/cdec-2026-reune-especialistas-para-discutir-os-desafios-energeticos-da-expansao-dos-data-centers-no-brasil/",
-      "resumo": "Segunda edição do Congresso de Data Centers e Energia Crítica acontece nos dias 1º e 2 de dezembro, em São Paulo, e terá debates sobre segurança energética, infraestrutura…",
-      "imagem": "",
-      "data": "2026-11-16T19:38:00.000Z",
-      "fonte": "O Setor Elétrico",
-      "categoria": "Setor Elétrico"
     },
     {
       "titulo": "Já andamos no novo Audi A2 e-tron: veja o quão bom é realmente o compacto elétrico da marca",
@@ -124,15 +133,6 @@
       "resumo": "Dirigimos as versões com 140 e 240 kW; elas oferecem boas configurações de recuperação e muita capacidade de reboque, mas são caras",
       "imagem": "https://cdn.motor1.com/images/mgl/YAbLWj/s3/audi-a2-e-tron-in-arrow-grey-mit-autor-stefan-leichsenring.jpg",
       "data": "2026-11-16T14:31:01.000Z",
-      "fonte": "InsideEVs Brasil",
-      "categoria": "Mobilidade Elétrica"
-    },
-    {
-      "titulo": "Descobriram um jeito de apagar incêndios nas baterias dos carros elétricos de forma mais rápida",
-      "link": "https://insideevs.uol.com.br/news/815502/novo-m%C3%A9todo-apagar-incendio-baterias/",
-      "resumo": "Um experimento com baterias LFP compara nitrogênio líquido e Novec 1230: o primeiro requer menos produto e resfria melhor",
-      "imagem": "https://cdn.motor1.com/images/mgl/3WB2KL/s3/incendi-delle-batterie-scoperto-un-modo-per-spegnerli-piu-in-fretta.jpg",
-      "data": "2026-11-15T12:24:46.000Z",
       "fonte": "InsideEVs Brasil",
       "categoria": "Mobilidade Elétrica"
     }
