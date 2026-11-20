@@ -1,14 +1,59 @@
 {
-  "atualizadoEm": "2026-11-19T09:52:36.126Z",
+  "atualizadoEm": "2026-11-20T09:50:35.035Z",
   "setor": [
     {
-      "titulo": "Copel chega à troca de governo com foco em retorno e concorrência",
-      "link": "https://megawhat.uol.com.br/distribuicao/copel-chega-a-troca-de-governo-com-foco-em-retorno-e-concorrencia/",
-      "resumo": "Três anos após sua privatização, a Copel se prepara para a primeira troca de governo no Paraná desde que deixou de ter um acionista controlador. Indicado por Ratinho Junior (PSD)…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Edificio-sede-Copel-Curitiba-Foto-Agencia-Estadual-de-Noticias-Governo-do-Parana-23.jpg",
-      "data": "2026-11-19T03:00:00.000Z",
+      "titulo": "Reciclagem solar 2.0",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/19/solar-recycling-2-0/",
+      "resumo": "Milhões de módulos solares chegarão ao fim de sua vida útil nos próximos anos em todo o mundo, inclusive nos Estados Unidos, onde empresas disputam o desenvolvimento de novos…",
+      "imagem": "",
+      "data": "2026-11-19T22:51:00.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Abeeólica vai ao STF contra cobrança de geradores por baterias",
+      "link": "https://megawhat.uol.com.br/leiloes/abeeolica-vai-ao-stf-contra-cobranca-de-geradores-por-baterias/",
+      "resumo": "Transmissão e renováveis / Crédito: ThinkStock A Associação Brasileira de Energia Eólica (Abeeólica) ajuizou nesta quinta-feira, 19 de novembro, uma ação direta de…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Energias-transmissao-Eolica-Solar-Foto-ThinkStock-29.jpg",
+      "data": "2026-11-19T19:55:48.000Z",
       "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Copel prepara 9 GW em hidrelétricas reversíveis para leilões",
+      "link": "https://megawhat.uol.com.br/economia-e-politica/empresas/copel-prepara-9-gw-em-hidreletricas-reversiveis-para-leiloes/",
+      "resumo": "Diogo Mac Cord, vice-presidente de Estratégia, Novos Negócios e Transformação Digital A Copel tem uma carteira de aproximadamente 9 GW em projetos de hidrelétricas reversíveis, dos…",
+      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2026/11/Copel_20261119_@mariawurtz__1707.jpg",
+      "data": "2026-11-19T18:40:19.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Windey entra na lista de credenciadas pelo BNDES para baterias",
+      "link": "https://megawhat.uol.com.br/armazenamento/windey-entra-na-lista-de-empresas-credenciadas-pelo-bndes-para-baterias/",
+      "resumo": "Windey Energy (Divulgação) O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) já credenciou 11 empresas para o fornecimento de equipamentos destinados a projetos de…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/07/Windey-Energy-Divulgacao.jpg",
+      "data": "2026-11-19T18:31:36.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Brasol assume operação e manutenção de 49,2 MWp de usinas solares do SNEL11",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/19/brasol-assume-operacao-e-manutencao-de-492-mwp-de-usinas-solares-do-snel11/",
+      "resumo": "Contrato abrange empreendimentos de geração distribuída em seis estados e amplia carteira de O&M da empresa para mais de 332 MWp; fundo possui 106,9 MWp em operação e outros 42,5…",
+      "imagem": "",
+      "data": "2026-11-19T17:51:54.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Tarifa horária precisa oferecer incentivos econômicos para baterias, avalia Bright Strategies",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/19/tarifa-horaria-precisa-oferecer-incentivos-economicos-para-baterias-avalia-bright-strategies/",
+      "resumo": "Consultoria defende diferenças de preços que reflitam os custos do sistema elétrico e estimulem o armazenamento de energia solar. Proposta da Aneel também altera a compensação de…",
+      "imagem": "https://www.pv-magazine-brasil.com/wp-content/uploads/2026/11/Captura-de-tela-2026-11-19-124002.png",
+      "data": "2026-11-19T16:30:54.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
     },
     {
       "titulo": "Associações defendem aprovação do texto original do PL das baterias",
@@ -17,24 +62,6 @@
       "imagem": "https://uploads.eixos.com.br/2026/10/WhatsApp-Image-2026-10-06-at-15.14.40.jpeg",
       "data": "2026-11-18T21:29:31.000Z",
       "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Consumo de gás por térmicas deve aumentar 78% até 2036, indica EPE",
-      "link": "https://megawhat.uol.com.br/geracao/termica/consumo-de-gas-por-termicas-deve-aumentar-78-ate-2036-indica-epe/",
-      "resumo": "Térmica a gás natural | Foto: Acervo Agência Brasil O consumo médio de gás natural para geração termelétrica deve passar dos de 14 milhões de m³ por dia em 2026 para 25 milhões de…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Termica-a-Gas-Natural-Acervo-Agencia-Brasil-EBD-7.jpg",
-      "data": "2026-11-18T20:14:43.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Setor elétrico bate recorde com 171 operações analisadas pelo Cade em 2025",
-      "link": "https://megawhat.uol.com.br/regulacao/setor-eletrico-bate-recorde-com-171-operacoes-julgadas-pelo-cade-em-2025/",
-      "resumo": "Acordo / Crédito: FreePik Levantamento da MegaWhat identifica pelo menos 43 registros de negócios envolvendo autoprodução de energia no ano; Cade julgou 171 operações, alta de 58%…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/06/Aperto-de-maos-negocios-imagem-de-rawpixel.com-no-FreePik-MegaWhat-1.jpg",
-      "data": "2026-11-18T19:54:57.000Z",
-      "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
     },
     {
@@ -47,24 +74,6 @@
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Após pedido de suspensão de leilões de baterias, Absae alerta para riscos de adiamento",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/18/apos-pedido-de-suspensao-de-leiloes-de-baterias-absae-alerta-para-riscos-de-adiamento/",
-      "resumo": "A ação judicial e as indefinições regulatórias sobre o custeio e a remuneração das baterias aumentam a incerteza às vésperas do encerramento das inscrições, em 20 de novembro, e do…",
-      "imagem": "",
-      "data": "2026-11-18T19:33:00.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
-      "titulo": "COP31 discute meta de 35% de eletrificação até 2035",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/18/cop31-discute-meta-de-35-de-eletrificacao-ate-2035-e-avanco-da-transicao-dos-combustiveis-fosseis/",
-      "resumo": "Primeira minuta de decisão da conferência propõe ampliar a participação da eletricidade no consumo global de energia, atualmente em 23%. Paralelamente, coalizão de 30 países busca…",
-      "imagem": "",
-      "data": "2026-11-18T19:28:19.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
       "titulo": "Ciência de materiais ganha protagonismo na evolução de condutores elétricos",
       "link": "https://www.osetoreletrico.com.br/ciencia-de-materiais-ganha-protagonismo-na-evolucao-de-condutores-eletricos/",
       "resumo": "Da resistência à umidade ao aumento davida útil do cabo, entenda como a tecnologia de polímeros vem respondendo aos desafios da modernização das redes elétricas A expansão das…",
@@ -72,15 +81,6 @@
       "data": "2026-11-18T19:08:29.000Z",
       "fonte": "O Setor Elétrico",
       "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "ONS poderá coordenar cortes de geração distribuída por meio das distribuidoras",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/18/ons-podera-coordenar-cortes-de-geracao-distribuida-por-meio-das-distribuidoras/",
-      "resumo": "Proposta prevê experimento de 24 meses com cinco concessionárias e participação obrigatória de minigeradores, sem remuneração ou ressarcimento pelos cortes. Consulta pública…",
-      "imagem": "",
-      "data": "2026-11-18T18:43:14.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
     },
     {
       "titulo": "Brasil tem 32,9 veículos eletrificados por eletroposto e concentra rede no Sul e Sudeste, mostra estudo",
