@@ -1,12 +1,39 @@
 {
-  "atualizadoEm": "2026-11-20T09:50:35.035Z",
+  "atualizadoEm": "2026-11-21T09:38:38.842Z",
   "setor": [
     {
-      "titulo": "Reciclagem solar 2.0",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/19/solar-recycling-2-0/",
-      "resumo": "Milhões de módulos solares chegarão ao fim de sua vida útil nos próximos anos em todo o mundo, inclusive nos Estados Unidos, onde empresas disputam o desenvolvimento de novos…",
+      "titulo": "Preços de exportação de módulos TOPCon caem diante da renovação dos padrões de eficiência na China",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/20/precos-de-exportacao-de-modulos-topcon-caem-diante-da-renovacao-dos-padroes-de-eficiencia-na-china/",
+      "resumo": "Em uma nova atualização semanal para a pv magazine a OPIS, uma empresa Dow Jones, oferece um resumo das principais tendências de preços na indústria fotovoltaica global.",
       "imagem": "",
-      "data": "2026-11-19T22:51:00.000Z",
+      "data": "2026-11-20T16:08:10.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Rolls-Royce Phantom VI: Clássico elétrico na posse do Lord Mayor de Londres",
+      "link": "https://insideevs.uol.com.br/news/815948/rolls-royce-phanton-classico-eletrico/",
+      "resumo": "A Electrogenic eletrificou a limusine de seis metros de 1973 com um motor de 120 kW e uma bateria de 62 kWh.",
+      "imagem": "https://cdn.motor1.com/images/mgl/eoWejP/s3/rolls-royce-phantom-vi-1973-elektro-umbau.jpg",
+      "data": "2026-11-20T13:12:24.000Z",
+      "fonte": "InsideEVs Brasil",
+      "categoria": "Mobilidade Elétrica"
+    },
+    {
+      "titulo": "Sicoob Credip abastece 27 unidades com energia solar em Rondônia",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/20/sicoob-credip-abastece-27-unidades-com-energia-solar-em-rondonia/",
+      "resumo": "Cooperativa utiliza créditos de uma usina fotovoltaica de 157 MWh em Vilhena (RO) para compensar o consumo de suas unidades no estado e estima redução de 15% nas contas de energia.",
+      "imagem": "",
+      "data": "2026-11-20T13:00:00.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Sistema solar com baterias gera 79,1 MWh em comunidade indígena no Amazonas",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/20/sistema-solar-com-baterias-gera-791-mwh-em-comunidade-indigena-no-amazonas/",
+      "resumo": "Instalação na comunidade Três Unidos gerou eletricidade em 251 dias de operação, reduziu a dependência de geradores a diesel e ampliou o acesso à energia para atividades…",
+      "imagem": "",
+      "data": "2026-11-20T11:30:00.000Z",
       "fonte": "pv magazine Brasil",
       "categoria": "Energia Solar"
     },
@@ -36,24 +63,6 @@
       "data": "2026-11-19T18:31:36.000Z",
       "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Brasol assume operação e manutenção de 49,2 MWp de usinas solares do SNEL11",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/19/brasol-assume-operacao-e-manutencao-de-492-mwp-de-usinas-solares-do-snel11/",
-      "resumo": "Contrato abrange empreendimentos de geração distribuída em seis estados e amplia carteira de O&M da empresa para mais de 332 MWp; fundo possui 106,9 MWp em operação e outros 42,5…",
-      "imagem": "",
-      "data": "2026-11-19T17:51:54.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
-      "titulo": "Tarifa horária precisa oferecer incentivos econômicos para baterias, avalia Bright Strategies",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/19/tarifa-horaria-precisa-oferecer-incentivos-economicos-para-baterias-avalia-bright-strategies/",
-      "resumo": "Consultoria defende diferenças de preços que reflitam os custos do sistema elétrico e estimulem o armazenamento de energia solar. Proposta da Aneel também altera a compensação de…",
-      "imagem": "https://www.pv-magazine-brasil.com/wp-content/uploads/2026/11/Captura-de-tela-2026-11-19-124002.png",
-      "data": "2026-11-19T16:30:54.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
     },
     {
       "titulo": "Associações defendem aprovação do texto original do PL das baterias",
@@ -125,15 +134,6 @@
       "imagem": "https://abve.org.br/wp-content/uploads/2026/11/ABVE-VPR-foto001-Credito-Cadu-Gomes-VPR.jpg",
       "data": "2026-11-17T13:05:04.000Z",
       "fonte": "ABVE",
-      "categoria": "Mobilidade Elétrica"
-    },
-    {
-      "titulo": "Já andamos no novo Audi A2 e-tron: veja o quão bom é realmente o compacto elétrico da marca",
-      "link": "https://insideevs.uol.com.br/reviews/815601/teste-audi-a2-etron-eletrico/",
-      "resumo": "Dirigimos as versões com 140 e 240 kW; elas oferecem boas configurações de recuperação e muita capacidade de reboque, mas são caras",
-      "imagem": "https://cdn.motor1.com/images/mgl/YAbLWj/s3/audi-a2-e-tron-in-arrow-grey-mit-autor-stefan-leichsenring.jpg",
-      "data": "2026-11-16T14:31:01.000Z",
-      "fonte": "InsideEVs Brasil",
       "categoria": "Mobilidade Elétrica"
     }
   ],
