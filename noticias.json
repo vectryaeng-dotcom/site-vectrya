@@ -1,6 +1,15 @@
 {
-  "atualizadoEm": "2026-11-21T09:38:38.842Z",
+  "atualizadoEm": "2026-11-22T09:39:46.900Z",
   "setor": [
+    {
+      "titulo": "Novo BMW iX3: veja como SUV regenera e aproveita sua energia em um teste inédito no Brasil",
+      "link": "https://insideevs.uol.com.br/reviews/814566/bmw-ix3-teste-consumo-autonomia/",
+      "resumo": "Teste de ida e volta ao litoral revela diferenças de consumo entre estrada, descida e subida",
+      "imagem": "https://cdn.motor1.com/images/mgl/YAbLy0/s3/bmw-ix3-mostra-como-aproveitar-melhor-a-energia-de-sua-bateria.jpg",
+      "data": "2026-11-21T11:00:00.000Z",
+      "fonte": "InsideEVs Brasil",
+      "categoria": "Mobilidade Elétrica"
+    },
     {
       "titulo": "Preços de exportação de módulos TOPCon caem diante da renovação dos padrões de eficiência na China",
       "link": "https://www.pv-magazine-brasil.com/2026/11/20/precos-de-exportacao-de-modulos-topcon-caem-diante-da-renovacao-dos-padroes-de-eficiencia-na-china/",
@@ -126,15 +135,6 @@
       "data": "2026-11-17T17:41:48.000Z",
       "fonte": "O Setor Elétrico",
       "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Em reunião com ABVE, Alckmin define sete prioridades para desenvolver a eletromobilidade",
-      "link": "https://abve.org.br/abve-apresenta-sete-prioridades-para-o-avanco-da-eletromobilidade-em-reuniao-com-geraldo-alckmin/?utm_source=rss&utm_medium=rss&utm_campaign=abve-apresenta-sete-prioridades-para-o-avanco-da-eletromobilidade-em-reuniao-com-geraldo-alckmin",
-      "resumo": "Em audiência à ABVE no último dia 13/11, em Brasília, o vice-presidente Geraldo Alckmin comprometeu-se a avaliar o encaminhamento de pelo menos sete pontos da agenda da…",
-      "imagem": "https://abve.org.br/wp-content/uploads/2026/11/ABVE-VPR-foto001-Credito-Cadu-Gomes-VPR.jpg",
-      "data": "2026-11-17T13:05:04.000Z",
-      "fonte": "ABVE",
-      "categoria": "Mobilidade Elétrica"
     }
   ],
   "newsletter": []
