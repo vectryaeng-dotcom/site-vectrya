@@ -1,6 +1,24 @@
 {
-  "atualizadoEm": "2026-11-22T09:39:46.900Z",
+  "atualizadoEm": "2026-11-23T10:03:52.110Z",
   "setor": [
+    {
+      "titulo": "Proprietários de EVs não estão preocupados com suas baterias. Estão preocupados com mitos",
+      "link": "https://insideevs.uol.com.br/news/815939/pesquisa-veiculos-mitos-bateria-degrada%C3%A7%C3%A3o/",
+      "resumo": "Quase 30.000 motoristas participaram de uma pesquisa global. Vida útil da bateria, incêndios e medo de colapso da rede dominaram os equívocos que eles relataram",
+      "imagem": "https://cdn.motor1.com/images/mgl/ojPpp0/s3/byd-dolphin-mini-gs-2026-br.jpg",
+      "data": "2026-11-22T12:00:00.000Z",
+      "fonte": "InsideEVs Brasil",
+      "categoria": "Mobilidade Elétrica"
+    },
+    {
+      "titulo": "Abeeólica vai ao STF contra regra de custeio de baterias a serem contratadas em leilão",
+      "link": "https://eixos.com.br/energia-eletrica/abeeolica-vai-ao-stf-contra-regra-de-custeio-de-baterias-a-serem-contratadas-em-leilao/",
+      "resumo": "Associação questiona regra que prevê que os geradores de energia vão arcar com os custos de contratação dos sistemas de armazenamento em baterias O post Abeeólica vai ao STF contra…",
+      "imagem": "https://uploads.eixos.com.br/2026/04/Turbina-eolica-branca-vista-de-baixo-para-cima-sob-ceu-azul-Foto-Pixabay.png",
+      "data": "2026-11-21T14:45:00.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
     {
       "titulo": "Novo BMW iX3: veja como SUV regenera e aproveita sua energia em um teste inédito no Brasil",
       "link": "https://insideevs.uol.com.br/reviews/814566/bmw-ix3-teste-consumo-autonomia/",
@@ -101,15 +119,6 @@
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Brasil tem 32,9 veículos eletrificados por eletroposto e concentra rede no Sul e Sudeste, mostra estudo",
-      "link": "https://eixos.com.br/energia-eletrica/brasil-tem-329-veiculos-eletrificados-por-eletroposto-e-concentra-rede-no-sul-e-sudeste-mostra-estudo/",
-      "resumo": "Levantamento da consultoria Bip aponta avanço de 254% nos carregadores rápidos, mas alerta para falta de padronização e aumento de 12 vezes no consumo de eletricidade até 2035 O…",
-      "imagem": "https://uploads.eixos.com.br/2024/07/Carro-eletrico-SUV-conectado-a-carregador-eletrico-Foto-Felix-Muller_Pixabay.jpeg",
-      "data": "2026-11-18T18:29:12.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
       "titulo": "Calor do verão pode expor falhas nas instalações elétricas das casas",
       "link": "https://www.osetoreletrico.com.br/calor-do-verao-pode-expor-falhas-nas-instalacoes-eletricas-das-casas/",
       "resumo": "O calor do verão aumenta a demanda de energia dentro de casa. Com temperaturas mais altas, ventiladores ficam ligados por longos períodos, aparelhos de ar-condicionado operam com…",
@@ -117,15 +126,6 @@
       "data": "2026-11-18T18:06:56.000Z",
       "fonte": "O Setor Elétrico",
       "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Alckmin promete lei do \"direito à tomada\" e destrava carregador em prédio",
-      "link": "https://insideevs.uol.com.br/news/815909/abve-alckmin-carregadores-condominios-federal/",
-      "resumo": "Após reunião com a ABVE, vice-presidente avaliará lei federal de direito à recarga em condomínios, tema que trava carregadores",
-      "imagem": "https://cdn.motor1.com/images/mgl/JO61KM/s3/carros-em-carregadores-de-condominios.jpg",
-      "data": "2026-11-18T14:20:48.000Z",
-      "fonte": "InsideEVs Brasil",
-      "categoria": "Mobilidade Elétrica"
     },
     {
       "titulo": "Frota de veículos leves eletrificados poderá alcançar 9,7 milhões de unidades no Brasil em 2036, projeta PDE",
