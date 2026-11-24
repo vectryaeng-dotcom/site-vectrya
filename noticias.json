@@ -1,6 +1,114 @@
 {
-  "atualizadoEm": "2026-11-23T10:03:52.110Z",
+  "atualizadoEm": "2026-11-24T09:57:53.107Z",
   "setor": [
+    {
+      "titulo": "Sistema de pulverização movido pelo vento resfria e limpa painéis solares",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/24/sistema-de-pulverizacao-movido-pelo-vento-resfria-e-limpa-paineis-solares/",
+      "resumo": "Pesquisadores desenvolveram um sistema de pulverização de água que resfria e limpa módulos fotovoltaicos usando uma turbina eólica acoplada diretamente a uma bomba mecânica. Em…",
+      "imagem": "",
+      "data": "2026-11-24T09:44:11.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Debate sobre subsídios para baterias residenciais na Austrália se volta aos benefícios para a rede",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/24/debate-sobre-subsidios-para-baterias-residenciais-na-australia-se-volta-aos-beneficios-para-a-rede/",
+      "resumo": "Mais de 600 mil baterias residenciais foram instaladas no âmbito do Programa de Baterias Domésticas Mais Baratas da Austrália, impulsionando discussões sobre a vinculação de…",
+      "imagem": "",
+      "data": "2026-11-24T09:43:22.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Moura credenciada para fornecer BESS nacionalizado no LRCAP pela Rota 2, com maior índice de conteúdo local",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/23/moura-credenciada-para-fornecer-bess-nacionalizado-no-lrcap-pela-rota-2-com-maior-indice-de-conteudo-local/",
+      "resumo": "A rota escolhida pela companhia atende requisitos mais abrangentes de nacionalização e conta com condições especiais para financiamento via Fundo Clima. Solução será produzida no…",
+      "imagem": "",
+      "data": "2026-11-23T19:43:52.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Aneel autoriza reforços no Pará, com investimento de R$ 95 milhões",
+      "link": "https://megawhat.uol.com.br/destaques-do-diario/aneel-autoriza-reforcos-no-para-com-investimento-de-r-95-milhoes/",
+      "resumo": "Linha de transmissão | Crédito: Neoenergia A Agência Nacional de Energia Elétrica (Aneel) autorizou a Belém Transmissora de Energia a realizar obras de reforço na subestação…",
+      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2026/01/51340068669_0426d7a4ce_b.jpg",
+      "data": "2026-11-23T19:39:50.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Fazenda define entidades empresariais para a câmara do mercado de carbono",
+      "link": "https://megawhat.uol.com.br/destaques-do-diario/fazenda-define-entidades-empresariais-para-a-camara-do-mercado-de-carbono/",
+      "resumo": "Carbono O Ministério da Fazenda designou 11 entidades de representação empresarial para compor a Câmara de Assuntos Regulatórios do Sistema Brasileiro de Comércio de Emissões de…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Carbono_emissoes_gases_poluicao_Foto-de-Chris-LeBoutillier-na-Unsplash-13.jpg",
+      "data": "2026-11-23T19:36:24.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Equatorial recebe nova multa por favorecer comercializadora do grupo",
+      "link": "https://megawhat.uol.com.br/destaques-do-diario/equatorial-recebe-nova-multa-por-favorecer-comercializadora-do-grupo/",
+      "resumo": "Sede da Equatorial no Piauí. Crédito: Divulgação. A Equatorial Energia recebeu uma nova penalidade da Agência Nacional de Energia Elétrica (Aneel) por favorecimento à…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Equatorial_Piaui_Sede_Divulgacao-6.jpg",
+      "data": "2026-11-23T19:33:44.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Vaisala completa 90 anos, chega a São Paulo e amplia presença no Brasil e na América Latina com nova operação",
+      "link": "https://www.osetoreletrico.com.br/vaisala-completa-90-anos-chega-a-sao-paulo-e-amplia-presenca-no-brasil-e-na-america-latina-com-nova-operacao/",
+      "resumo": "Empresa finlandesa reforça expansão estratégica local e aposta em setores- chave para acelerar o crescimento na América Latina, como farmacêutico, data centers, alimentos e energia…",
+      "imagem": "https://www.osetoreletrico.com.br/wp-content/uploads/2026/11/VAISALA-INAUGURACAO-00027-1024x683.jpg",
+      "data": "2026-11-23T18:58:48.000Z",
+      "fonte": "O Setor Elétrico",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Modernizar sem perder a estabilidade: um olhar para a inovação na indústria",
+      "link": "https://www.osetoreletrico.com.br/modernizar-sem-perder-a-estabilidade-um-olhar-para-a-inovacao-na-industria/",
+      "resumo": "Automação permite elevar o desempenho industrial com melhorias graduais e contínua, aproveitando estruturas existentes e preservando a continuidade operacional Modernizar uma…",
+      "imagem": "",
+      "data": "2026-11-23T18:47:08.000Z",
+      "fonte": "O Setor Elétrico",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Motoristas da 99 poderão contratar energia pelo aplicativo, com desconto na conta de luz",
+      "link": "https://eixos.com.br/energia-eletrica/motoristas-da-99-poderao-contratar-energia-pelo-aplicativo-com-desconto-na-conta-de-luz/",
+      "resumo": "Parceria com a Serena usa o sistema de compensação da geração distribuída e chega com a frota eletrificada da plataforma acima de 100 mil carros O post Motoristas da 99 poderão…",
+      "imagem": "https://uploads.eixos.com.br/2026/11/usina-solar-granja-marileusa-uberlandia-1920x1080-1.jpg",
+      "data": "2026-11-23T18:40:02.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Kia completa 40 anos de seu primeiro elétrico, uma van baseada na Besta",
+      "link": "https://insideevs.uol.com.br/news/816513/kia-besta-van-eletrica-ve%C3%ADculos/",
+      "resumo": "Antes de lançar modelos como EV5 e EV9, fabricante sul-coreana já desenvolvia protótipos elétricos na década de 1980",
+      "imagem": "https://cdn.motor1.com/images/mgl/1ZPrjM/s3/kia-besta-1986-ev.jpg",
+      "data": "2026-11-23T18:31:00.000Z",
+      "fonte": "InsideEVs Brasil",
+      "categoria": "Mobilidade Elétrica"
+    },
+    {
+      "titulo": "Cepel inicia nova fase com sede no Porto Maravilha focando em inovação e integração com o mercado",
+      "link": "https://www.osetoreletrico.com.br/cepel-inicia-nova-fase-com-sede-no-porto-maravilha-focando-em-inovacao-e-integracao-com-o-mercado/",
+      "resumo": "Com mais de 50 anos de experiência, o Centro Cepel fortalece sua capacidade de pesquisa e desenvolvimento tecnológico; Adrianópolis será um hub integrado de laboratórios O Cepel…",
+      "imagem": "https://www.osetoreletrico.com.br/wp-content/uploads/2026/11/cepel2-1024x682.jpeg",
+      "data": "2026-11-23T18:24:48.000Z",
+      "fonte": "O Setor Elétrico",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "De parceira a fornecedora: Leapmotor vai ajudar Stellantis a desenvolver seus próprios elétricos",
+      "link": "https://insideevs.uol.com.br/news/816481/stellantis-usara-base-leapmotor-opel/",
+      "resumo": "Primeiro fruto dessa parceria nascerá através da Opel e pode também render modelos da Fiat, Peugeot, Citroën e até Jeep",
+      "imagem": "https://cdn.motor1.com/images/mgl/9m8Eqv/s3/opel-plant-ein-neues-suv-im-c-segment-partnerschaft-mit-leapmotor-und-produktion-in-europa.jpg",
+      "data": "2026-11-23T14:46:14.000Z",
+      "fonte": "InsideEVs Brasil",
+      "categoria": "Mobilidade Elétrica"
+    },
     {
       "titulo": "Proprietários de EVs não estão preocupados com suas baterias. Estão preocupados com mitos",
       "link": "https://insideevs.uol.com.br/news/815939/pesquisa-veiculos-mitos-bateria-degrada%C3%A7%C3%A3o/",
@@ -20,120 +128,12 @@
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Novo BMW iX3: veja como SUV regenera e aproveita sua energia em um teste inédito no Brasil",
-      "link": "https://insideevs.uol.com.br/reviews/814566/bmw-ix3-teste-consumo-autonomia/",
-      "resumo": "Teste de ida e volta ao litoral revela diferenças de consumo entre estrada, descida e subida",
-      "imagem": "https://cdn.motor1.com/images/mgl/YAbLy0/s3/bmw-ix3-mostra-como-aproveitar-melhor-a-energia-de-sua-bateria.jpg",
-      "data": "2026-11-21T11:00:00.000Z",
-      "fonte": "InsideEVs Brasil",
-      "categoria": "Mobilidade Elétrica"
-    },
-    {
-      "titulo": "Preços de exportação de módulos TOPCon caem diante da renovação dos padrões de eficiência na China",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/20/precos-de-exportacao-de-modulos-topcon-caem-diante-da-renovacao-dos-padroes-de-eficiencia-na-china/",
-      "resumo": "Em uma nova atualização semanal para a pv magazine a OPIS, uma empresa Dow Jones, oferece um resumo das principais tendências de preços na indústria fotovoltaica global.",
-      "imagem": "",
-      "data": "2026-11-20T16:08:10.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
-      "titulo": "Rolls-Royce Phantom VI: Clássico elétrico na posse do Lord Mayor de Londres",
-      "link": "https://insideevs.uol.com.br/news/815948/rolls-royce-phanton-classico-eletrico/",
-      "resumo": "A Electrogenic eletrificou a limusine de seis metros de 1973 com um motor de 120 kW e uma bateria de 62 kWh.",
-      "imagem": "https://cdn.motor1.com/images/mgl/eoWejP/s3/rolls-royce-phantom-vi-1973-elektro-umbau.jpg",
-      "data": "2026-11-20T13:12:24.000Z",
-      "fonte": "InsideEVs Brasil",
-      "categoria": "Mobilidade Elétrica"
-    },
-    {
-      "titulo": "Sicoob Credip abastece 27 unidades com energia solar em Rondônia",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/20/sicoob-credip-abastece-27-unidades-com-energia-solar-em-rondonia/",
-      "resumo": "Cooperativa utiliza créditos de uma usina fotovoltaica de 157 MWh em Vilhena (RO) para compensar o consumo de suas unidades no estado e estima redução de 15% nas contas de energia.",
-      "imagem": "",
-      "data": "2026-11-20T13:00:00.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
-      "titulo": "Sistema solar com baterias gera 79,1 MWh em comunidade indígena no Amazonas",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/20/sistema-solar-com-baterias-gera-791-mwh-em-comunidade-indigena-no-amazonas/",
-      "resumo": "Instalação na comunidade Três Unidos gerou eletricidade em 251 dias de operação, reduziu a dependência de geradores a diesel e ampliou o acesso à energia para atividades…",
-      "imagem": "",
-      "data": "2026-11-20T11:30:00.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
-      "titulo": "Abeeólica vai ao STF contra cobrança de geradores por baterias",
-      "link": "https://megawhat.uol.com.br/leiloes/abeeolica-vai-ao-stf-contra-cobranca-de-geradores-por-baterias/",
-      "resumo": "Transmissão e renováveis / Crédito: ThinkStock A Associação Brasileira de Energia Eólica (Abeeólica) ajuizou nesta quinta-feira, 19 de novembro, uma ação direta de…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Energias-transmissao-Eolica-Solar-Foto-ThinkStock-29.jpg",
-      "data": "2026-11-19T19:55:48.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Copel prepara 9 GW em hidrelétricas reversíveis para leilões",
-      "link": "https://megawhat.uol.com.br/economia-e-politica/empresas/copel-prepara-9-gw-em-hidreletricas-reversiveis-para-leiloes/",
-      "resumo": "Diogo Mac Cord, vice-presidente de Estratégia, Novos Negócios e Transformação Digital A Copel tem uma carteira de aproximadamente 9 GW em projetos de hidrelétricas reversíveis, dos…",
-      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2026/11/Copel_20261119_@mariawurtz__1707.jpg",
-      "data": "2026-11-19T18:40:19.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Windey entra na lista de credenciadas pelo BNDES para baterias",
-      "link": "https://megawhat.uol.com.br/armazenamento/windey-entra-na-lista-de-empresas-credenciadas-pelo-bndes-para-baterias/",
-      "resumo": "Windey Energy (Divulgação) O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) já credenciou 11 empresas para o fornecimento de equipamentos destinados a projetos de…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/07/Windey-Energy-Divulgacao.jpg",
-      "data": "2026-11-19T18:31:36.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
       "titulo": "Associações defendem aprovação do texto original do PL das baterias",
       "link": "https://eixos.com.br/politica/associacoes-defendem-aprovacao-do-texto-original-do-pl-das-baterias/",
       "resumo": "As manifestações reforçaram a pressão para concentrar o projeto na mudança do rateio, sem reabrir outras disputas da reforma do setor elétrico O post Associações defendem aprovação…",
       "imagem": "https://uploads.eixos.com.br/2026/10/WhatsApp-Image-2026-10-06-at-15.14.40.jpeg",
       "data": "2026-11-18T21:29:31.000Z",
       "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Previsão de maior consumo do Paraguai em Itaipu acende alerta para preços da energia no Brasil",
-      "link": "https://eixos.com.br/energia-eletrica/previsao-de-maior-consumo-do-paraguai-em-itaipu-acende-alerta-para-precos-da-energia-no-brasil/",
-      "resumo": "Abrace pede à Aneel medida cautelar para limitar a 3.875 MW médios a carga paraguaia nos modelos a partir de janeiro; proposta da ENBPar prevê teto de 7.000 MW médios O post…",
-      "imagem": "https://uploads.eixos.com.br/2026/06/WhatsApp-Image-2026-06-17-at-15.27.02.jpeg",
-      "data": "2026-11-18T19:33:43.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Ciência de materiais ganha protagonismo na evolução de condutores elétricos",
-      "link": "https://www.osetoreletrico.com.br/ciencia-de-materiais-ganha-protagonismo-na-evolucao-de-condutores-eletricos/",
-      "resumo": "Da resistência à umidade ao aumento davida útil do cabo, entenda como a tecnologia de polímeros vem respondendo aos desafios da modernização das redes elétricas A expansão das…",
-      "imagem": "",
-      "data": "2026-11-18T19:08:29.000Z",
-      "fonte": "O Setor Elétrico",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Calor do verão pode expor falhas nas instalações elétricas das casas",
-      "link": "https://www.osetoreletrico.com.br/calor-do-verao-pode-expor-falhas-nas-instalacoes-eletricas-das-casas/",
-      "resumo": "O calor do verão aumenta a demanda de energia dentro de casa. Com temperaturas mais altas, ventiladores ficam ligados por longos períodos, aparelhos de ar-condicionado operam com…",
-      "imagem": "",
-      "data": "2026-11-18T18:06:56.000Z",
-      "fonte": "O Setor Elétrico",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Frota de veículos leves eletrificados poderá alcançar 9,7 milhões de unidades no Brasil em 2036, projeta PDE",
-      "link": "https://www.osetoreletrico.com.br/frota-de-veiculos-leves-eletrificados-podera-alcancar-97-milhoes-de-unidades-no-brasil-em-2036-projeta-pde/",
-      "resumo": "Caderno de Eletromobilidade do PDE 2036 analisa a expansão dos veículos eletrificados no País e seus impactos O Ministério de Minas e Energia (MME) e a Empresa de Pesquisa…",
-      "imagem": "",
-      "data": "2026-11-17T17:41:48.000Z",
-      "fonte": "O Setor Elétrico",
       "categoria": "Setor Elétrico"
     }
   ],
