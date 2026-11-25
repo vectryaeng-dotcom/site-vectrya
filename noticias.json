@@ -1,59 +1,86 @@
 {
-  "atualizadoEm": "2026-11-24T09:57:53.107Z",
+  "atualizadoEm": "2026-11-25T09:59:01.041Z",
   "setor": [
     {
-      "titulo": "Sistema de pulverização movido pelo vento resfria e limpa painéis solares",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/24/sistema-de-pulverizacao-movido-pelo-vento-resfria-e-limpa-paineis-solares/",
-      "resumo": "Pesquisadores desenvolveram um sistema de pulverização de água que resfria e limpa módulos fotovoltaicos usando uma turbina eólica acoplada diretamente a uma bomba mecânica. Em…",
-      "imagem": "",
-      "data": "2026-11-24T09:44:11.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
+      "titulo": "Quem deve pagar pela segurança que as baterias entregam ao sistema elétrico?",
+      "link": "https://eixos.com.br/politica/quem-deve-pagar-pela-seguranca-que-as-baterias-entregam-ao-sistema-eletrico/",
+      "resumo": "Aprovar o PL das baterias antes dos certames daria ao primeiro ciclo de contratação de armazenamento uma base de custeio compatível com o serviço que o país espera delas, escreve…",
+      "imagem": "https://uploads.eixos.com.br/2026/01/Darlan-Santos-e-diretor-presidente-do-Cerne-Foto-Divulgacao.png",
+      "data": "2026-11-25T09:00:00.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Debate sobre subsídios para baterias residenciais na Austrália se volta aos benefícios para a rede",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/24/debate-sobre-subsidios-para-baterias-residenciais-na-australia-se-volta-aos-beneficios-para-a-rede/",
-      "resumo": "Mais de 600 mil baterias residenciais foram instaladas no âmbito do Programa de Baterias Domésticas Mais Baratas da Austrália, impulsionando discussões sobre a vinculação de…",
-      "imagem": "",
-      "data": "2026-11-24T09:43:22.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
-      "titulo": "Moura credenciada para fornecer BESS nacionalizado no LRCAP pela Rota 2, com maior índice de conteúdo local",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/23/moura-credenciada-para-fornecer-bess-nacionalizado-no-lrcap-pela-rota-2-com-maior-indice-de-conteudo-local/",
-      "resumo": "A rota escolhida pela companhia atende requisitos mais abrangentes de nacionalização e conta com condições especiais para financiamento via Fundo Clima. Solução será produzida no…",
-      "imagem": "",
-      "data": "2026-11-23T19:43:52.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
-    },
-    {
-      "titulo": "Aneel autoriza reforços no Pará, com investimento de R$ 95 milhões",
-      "link": "https://megawhat.uol.com.br/destaques-do-diario/aneel-autoriza-reforcos-no-para-com-investimento-de-r-95-milhoes/",
-      "resumo": "Linha de transmissão | Crédito: Neoenergia A Agência Nacional de Energia Elétrica (Aneel) autorizou a Belém Transmissora de Energia a realizar obras de reforço na subestação…",
-      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2026/01/51340068669_0426d7a4ce_b.jpg",
-      "data": "2026-11-23T19:39:50.000Z",
+      "titulo": "Geradoras rejeitam acordo e são multadas em R$ 146 milhões por apagão de 2023",
+      "link": "https://megawhat.uol.com.br/regulacao/geradoras-rejeitam-acordo-e-sao-multadas-em-r-146-milhoes-por-apagao-de-2023/",
+      "resumo": "Projetos de usinas solares e eólicas e a transmissão / Crédito: ThinkStock A Agência Nacional de Energia Elétrica (Aneel) aprovou, nesta terça-feira, 24 de novembro, R$ 146,36…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/Energias-transmissao-Eolica-Solar-Foto-ThinkStock-27.jpg",
+      "data": "2026-11-24T21:26:04.000Z",
       "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Fazenda define entidades empresariais para a câmara do mercado de carbono",
-      "link": "https://megawhat.uol.com.br/destaques-do-diario/fazenda-define-entidades-empresariais-para-a-camara-do-mercado-de-carbono/",
-      "resumo": "Carbono O Ministério da Fazenda designou 11 entidades de representação empresarial para compor a Câmara de Assuntos Regulatórios do Sistema Brasileiro de Comércio de Emissões de…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Carbono_emissoes_gases_poluicao_Foto-de-Chris-LeBoutillier-na-Unsplash-13.jpg",
-      "data": "2026-11-23T19:36:24.000Z",
+      "titulo": "Aneel aprova regras para adiar encargos de transmissão com ONS tomando providências para ajuste",
+      "link": "https://eixos.com.br/energia-eletrica/aneel-aprova-regras-para-adiar-encargos-de-transmissao-com-ons-tomando-providencias-para-ajuste/",
+      "resumo": "Aneel aprovou regra que permite a geradores postergar ou antecipar o início do pagamento pelo uso da transmissão no CUST, sem limite de pedidos O post Aneel aprova regras para…",
+      "imagem": "https://uploads.eixos.com.br/2026/04/Linhas-de-transmissao-de-energia-da-usina-hidreletrica-Itaipu-Binacional-em-Foz-do-Iguacu-PR-Foto-Tania-Rego-Agencia-Brasil-1.jpg",
+      "data": "2026-11-24T20:56:00.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "PL das baterias pode elevar conta de luz em até R$ 6,26 bilhões por ano, estima FNCE",
+      "link": "https://megawhat.uol.com.br/economia-e-politica/congresso/pl-das-baterias-pode-elevar-conta-de-luz-em-ate-r-626-bilhoes-por-ano-estima-fnce/",
+      "resumo": "Baterias / Crédito: Isa Energia (Divulgação) O Projeto de Lei nº 3.716/2026 pode aumentar o custo da conta de luz dos consumidores brasileiros em até R$ 6,26 bilhões por ano. A…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/RNUGzpj0-Baterias-Isa-Cteep-em-Registro-jpg.webp",
+      "data": "2026-11-24T20:03:00.000Z",
       "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Equatorial recebe nova multa por favorecer comercializadora do grupo",
-      "link": "https://megawhat.uol.com.br/destaques-do-diario/equatorial-recebe-nova-multa-por-favorecer-comercializadora-do-grupo/",
-      "resumo": "Sede da Equatorial no Piauí. Crédito: Divulgação. A Equatorial Energia recebeu uma nova penalidade da Agência Nacional de Energia Elétrica (Aneel) por favorecimento à…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Equatorial_Piaui_Sede_Divulgacao-6.jpg",
-      "data": "2026-11-23T19:33:44.000Z",
+      "titulo": "Safira Energia pede recuperação judicial com dívida de R$ 559 milhões",
+      "link": "https://megawhat.uol.com.br/economia-e-politica/empresas/safira-energia-pede-recuperacao-judicial-com-divida-de-r-559-milhoes/",
+      "resumo": "Custos e financiamento Foto: FreePik O grupo Safira Energia apresentou pedido de recuperação judicial com um passivo de R$ 558,8 milhões sujeito ao procedimento, após cerca de três…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/Financas-Dinheiro-Contabilidade-Calculo-Negocios-Foto-FreePik-19.jpg",
+      "data": "2026-11-24T19:32:53.000Z",
       "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Windey credencia pack de baterias no BNDES e prevê nacionalização de 85% dos BESS",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/24/windey-credencia-pack-de-baterias-no-bndes-e-preve-nacionalizacao-de-85-dos-bess/",
+      "resumo": "Fabricante chinesa obteve o credenciamento dos packs de baterias que serão montados em Camaçari (BA) e espera concluir o cadastro de três configurações de sistemas de armazenamento…",
+      "imagem": "https://www.pv-magazine-brasil.com/wp-content/uploads/2026/07/Hugo-Iounchan-Windey-950x1024.jpeg",
+      "data": "2026-11-24T17:47:54.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "ECR poderá reduzir benefícios tarifários da GD a partir de 2027 com fator preliminar de 52,4%",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/24/ecr-podera-reduzir-beneficios-tarifarios-da-gd-a-partir-de-2027-com-fator-preliminar-de-524/",
+      "resumo": "Encargo criado pela Lei nº 15.269/2025 limita despesas da Conta de Desenvolvimento Energético (CDE) e transfere aos beneficiários o custo que ultrapassar os tetos legais. A Aneel…",
+      "imagem": "",
+      "data": "2026-11-24T13:13:51.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Conectividade ganha importância para operação de projetos de armazenamento em baterias",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/24/conectividade-ganha-importancia-para-operacao-de-projetos-de-armazenamento-em-baterias/",
+      "resumo": "Briskcom e SunBridge firmam parceria para integrar comunicação de dados e estruturação de sistemas BESS. Leilões de dezembro receberam 6.091 projetos cadastrados, que somam 296,8…",
+      "imagem": "",
+      "data": "2026-11-24T13:12:49.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Teison e RJ Postos firmam parceria para ampliar recarga elétrica em postos de combustíveis",
+      "link": "https://abve.org.br/teison-brasil-e-rj-postos-firmam-parceria-para-ampliar-a-recarga-eletrica-em-postos-de-combustiveis-no-rio/?utm_source=rss&utm_medium=rss&utm_campaign=teison-brasil-e-rj-postos-firmam-parceria-para-ampliar-a-recarga-eletrica-em-postos-de-combustiveis-no-rio",
+      "resumo": "A Teison Brasil, especializada em soluções de recarga para veículos elétricos, firmou uma parceria com a RJ POSTOS, sindicato que representa os revendedores de combustíveis do…",
+      "imagem": "",
+      "data": "2026-11-24T12:53:48.000Z",
+      "fonte": "ABVE",
+      "categoria": "Mobilidade Elétrica"
     },
     {
       "titulo": "Vaisala completa 90 anos, chega a São Paulo e amplia presença no Brasil e na América Latina com nova operação",
@@ -108,33 +135,6 @@
       "data": "2026-11-23T14:46:14.000Z",
       "fonte": "InsideEVs Brasil",
       "categoria": "Mobilidade Elétrica"
-    },
-    {
-      "titulo": "Proprietários de EVs não estão preocupados com suas baterias. Estão preocupados com mitos",
-      "link": "https://insideevs.uol.com.br/news/815939/pesquisa-veiculos-mitos-bateria-degrada%C3%A7%C3%A3o/",
-      "resumo": "Quase 30.000 motoristas participaram de uma pesquisa global. Vida útil da bateria, incêndios e medo de colapso da rede dominaram os equívocos que eles relataram",
-      "imagem": "https://cdn.motor1.com/images/mgl/ojPpp0/s3/byd-dolphin-mini-gs-2026-br.jpg",
-      "data": "2026-11-22T12:00:00.000Z",
-      "fonte": "InsideEVs Brasil",
-      "categoria": "Mobilidade Elétrica"
-    },
-    {
-      "titulo": "Abeeólica vai ao STF contra regra de custeio de baterias a serem contratadas em leilão",
-      "link": "https://eixos.com.br/energia-eletrica/abeeolica-vai-ao-stf-contra-regra-de-custeio-de-baterias-a-serem-contratadas-em-leilao/",
-      "resumo": "Associação questiona regra que prevê que os geradores de energia vão arcar com os custos de contratação dos sistemas de armazenamento em baterias O post Abeeólica vai ao STF contra…",
-      "imagem": "https://uploads.eixos.com.br/2026/04/Turbina-eolica-branca-vista-de-baixo-para-cima-sob-ceu-azul-Foto-Pixabay.png",
-      "data": "2026-11-21T14:45:00.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Associações defendem aprovação do texto original do PL das baterias",
-      "link": "https://eixos.com.br/politica/associacoes-defendem-aprovacao-do-texto-original-do-pl-das-baterias/",
-      "resumo": "As manifestações reforçaram a pressão para concentrar o projeto na mudança do rateio, sem reabrir outras disputas da reforma do setor elétrico O post Associações defendem aprovação…",
-      "imagem": "https://uploads.eixos.com.br/2026/10/WhatsApp-Image-2026-10-06-at-15.14.40.jpeg",
-      "data": "2026-11-18T21:29:31.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
     }
   ],
   "newsletter": []
