@@ -1,77 +1,95 @@
 {
-  "atualizadoEm": "2026-11-25T09:59:01.041Z",
+  "atualizadoEm": "2026-11-26T09:57:48.312Z",
   "setor": [
     {
-      "titulo": "Quem deve pagar pela segurança que as baterias entregam ao sistema elétrico?",
-      "link": "https://eixos.com.br/politica/quem-deve-pagar-pela-seguranca-que-as-baterias-entregam-ao-sistema-eletrico/",
-      "resumo": "Aprovar o PL das baterias antes dos certames daria ao primeiro ciclo de contratação de armazenamento uma base de custeio compatível com o serviço que o país espera delas, escreve…",
-      "imagem": "https://uploads.eixos.com.br/2026/01/Darlan-Santos-e-diretor-presidente-do-Cerne-Foto-Divulgacao.png",
-      "data": "2026-11-25T09:00:00.000Z",
+      "titulo": "Da geração à conta de luz: como a energia ocupou o Congresso em 2026",
+      "link": "https://eixos.com.br/politica/da-geracao-a-conta-de-luz-como-a-energia-ocupou-o-congresso-em-2026/",
+      "resumo": "Curtailment, encargos, geração distribuída e proteção do consumidor atravessaram diferentes comissões e revelaram um setor elétrico cada vez mais presente na agenda legislativa…",
+      "imagem": "https://uploads.eixos.com.br/2026/11/WhatsApp-Image-2026-11-25-at-15.32.03.jpeg",
+      "data": "2026-11-26T09:00:00.000Z",
       "fonte": "agência eixos",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Geradoras rejeitam acordo e são multadas em R$ 146 milhões por apagão de 2023",
-      "link": "https://megawhat.uol.com.br/regulacao/geradoras-rejeitam-acordo-e-sao-multadas-em-r-146-milhoes-por-apagao-de-2023/",
-      "resumo": "Projetos de usinas solares e eólicas e a transmissão / Crédito: ThinkStock A Agência Nacional de Energia Elétrica (Aneel) aprovou, nesta terça-feira, 24 de novembro, R$ 146,36…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/Energias-transmissao-Eolica-Solar-Foto-ThinkStock-27.jpg",
-      "data": "2026-11-24T21:26:04.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Aneel aprova regras para adiar encargos de transmissão com ONS tomando providências para ajuste",
-      "link": "https://eixos.com.br/energia-eletrica/aneel-aprova-regras-para-adiar-encargos-de-transmissao-com-ons-tomando-providencias-para-ajuste/",
-      "resumo": "Aneel aprovou regra que permite a geradores postergar ou antecipar o início do pagamento pelo uso da transmissão no CUST, sem limite de pedidos O post Aneel aprova regras para…",
-      "imagem": "https://uploads.eixos.com.br/2026/04/Linhas-de-transmissao-de-energia-da-usina-hidreletrica-Itaipu-Binacional-em-Foz-do-Iguacu-PR-Foto-Tania-Rego-Agencia-Brasil-1.jpg",
-      "data": "2026-11-24T20:56:00.000Z",
+      "titulo": "TCU fecha balanço do SIN com pendências em matriz de referência e risco hidrológico",
+      "link": "https://eixos.com.br/politica/tcu-fecha-balanco-do-sin-com-pendencias-em-matriz-de-referencia-e-risco-hidrologico/",
+      "resumo": "TCU reconhece avanços no SIN, mas aponta lacunas em recomendações sobre planejamento térmico e alocação de riscos, e arquiva monitoramento sobre segurança energética O post TCU…",
+      "imagem": "https://uploads.eixos.com.br/2026/08/Placa-na-sede-do-Tribunal-de-Contas-da-Uniao-TCU-em-Brasilia-DF-Foto-Valter-Campanato-Agencia-Brasil.jpg",
+      "data": "2026-11-25T22:39:25.000Z",
       "fonte": "agência eixos",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "PL das baterias pode elevar conta de luz em até R$ 6,26 bilhões por ano, estima FNCE",
-      "link": "https://megawhat.uol.com.br/economia-e-politica/congresso/pl-das-baterias-pode-elevar-conta-de-luz-em-ate-r-626-bilhoes-por-ano-estima-fnce/",
-      "resumo": "Baterias / Crédito: Isa Energia (Divulgação) O Projeto de Lei nº 3.716/2026 pode aumentar o custo da conta de luz dos consumidores brasileiros em até R$ 6,26 bilhões por ano. A…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/RNUGzpj0-Baterias-Isa-Cteep-em-Registro-jpg.webp",
-      "data": "2026-11-24T20:03:00.000Z",
+      "titulo": "Leilões de baterias: Justiça nega suspensão, enquanto rateio trava no Congresso",
+      "link": "https://eixos.com.br/newsletters/dialogos-da-transicao/leiloes-de-baterias-justica-nega-suspensao-enquanto-rateio-trava-no-congresso/",
+      "resumo": "Justiça do DF nega pedido de suspensão dos leilões, STF analisa ADI e projeto de lei para mudar rateio de custos trava na Câmara O post Leilões de baterias: Justiça nega suspensão…",
+      "imagem": "https://uploads.eixos.com.br/2026/11/53923262001_a14639835a_k.jpg",
+      "data": "2026-11-25T22:10:12.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "BNDES flexibiliza crédito para baterias e poderá financiar até 80% dos projetos",
+      "link": "https://megawhat.uol.com.br/armazenamento/bndes-flexibiliza-credito-para-baterias-e-podera-financiar-ate-80-dos-projetos/",
+      "resumo": "Sede do BNDES no Rio de Janeiro (Divulgação) O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) poderá flexibilizar os cronogramas de amortização e a estrutura de…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/edificio_sede_do_bndes_Fernando-Frazao_Agencia-Brasil-3.jpg",
+      "data": "2026-11-25T20:32:37.000Z",
       "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Safira Energia pede recuperação judicial com dívida de R$ 559 milhões",
-      "link": "https://megawhat.uol.com.br/economia-e-politica/empresas/safira-energia-pede-recuperacao-judicial-com-divida-de-r-559-milhoes/",
-      "resumo": "Custos e financiamento Foto: FreePik O grupo Safira Energia apresentou pedido de recuperação judicial com um passivo de R$ 558,8 milhões sujeito ao procedimento, após cerca de três…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/Financas-Dinheiro-Contabilidade-Calculo-Negocios-Foto-FreePik-19.jpg",
-      "data": "2026-11-24T19:32:53.000Z",
+      "titulo": "Concessões de hidrelétricas devem reforçar caixa da CDE até 2030, prevê MME",
+      "link": "https://megawhat.uol.com.br/noticias/governo-aposta-em-concessoes-de-geracao-para-conter-alta-das-tarifas-ate-2030/",
+      "resumo": "João Daniel Cascalho, secretário de Energia Elétrica do MME. O Ministério de Minas e Energia (MME) trabalha com a perspectiva de aportes anuais na Conta de Desenvolvimento…",
+      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2025/12/54809472245_d0688e3624_o.jpg",
+      "data": "2026-11-25T20:18:02.000Z",
       "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Windey credencia pack de baterias no BNDES e prevê nacionalização de 85% dos BESS",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/24/windey-credencia-pack-de-baterias-no-bndes-e-preve-nacionalizacao-de-85-dos-bess/",
-      "resumo": "Fabricante chinesa obteve o credenciamento dos packs de baterias que serão montados em Camaçari (BA) e espera concluir o cadastro de três configurações de sistemas de armazenamento…",
-      "imagem": "https://www.pv-magazine-brasil.com/wp-content/uploads/2026/07/Hugo-Iounchan-Windey-950x1024.jpeg",
-      "data": "2026-11-24T17:47:54.000Z",
+      "titulo": "Brasil chega a oito plantas de biometano aptas a emitir certificados de origem",
+      "link": "https://megawhat.uol.com.br/oleo-e-gas/biometano/brasil-chega-a-oito-plantas-de-biometano-aptas-a-emitir-certificados-de-origem/",
+      "resumo": "Planta de biometano da Gás Verde em Seropédica, no Rio de Janeiro | Crédito: Gás Verde A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) certificou mais cinco…",
+      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2026/11/Planta-de-biometano-da-Gas-Verde-em-Seropedica-no-Rio-de-Janeiro.png",
+      "data": "2026-11-25T19:57:16.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "MDIC defende revisão da lei e mudança no rateio dos custos de baterias",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/25/mdic-defende-revisao-da-lei-e-mudanca-no-rateio-dos-custos-de-baterias/",
+      "resumo": "Pasta considera mais adequada proposta da Aneel de diferenciar encargos conforme a flexibilidade das usinas e defende revisão da lei que atribui aos geradores o custeio das…",
+      "imagem": "",
+      "data": "2026-11-25T16:28:55.000Z",
       "fonte": "pv magazine Brasil",
       "categoria": "Energia Solar"
     },
     {
-      "titulo": "ECR poderá reduzir benefícios tarifários da GD a partir de 2027 com fator preliminar de 52,4%",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/24/ecr-podera-reduzir-beneficios-tarifarios-da-gd-a-partir-de-2027-com-fator-preliminar-de-524/",
-      "resumo": "Encargo criado pela Lei nº 15.269/2025 limita despesas da Conta de Desenvolvimento Energético (CDE) e transfere aos beneficiários o custo que ultrapassar os tetos legais. A Aneel…",
+      "titulo": "Justiça rejeita pedido de suspensão dos leilões de baterias",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/25/justica-rejeita-pedido-de-suspensao-dos-leiloes-de-baterias/",
+      "resumo": "Decisão aponta riscos à segurança do suprimento em caso de adiamento e afasta necessidade de regulamentação prévia do rateio do encargo entre geradores. Pedido de liminar no STF…",
       "imagem": "",
-      "data": "2026-11-24T13:13:51.000Z",
+      "data": "2026-11-25T15:51:45.000Z",
       "fonte": "pv magazine Brasil",
       "categoria": "Energia Solar"
     },
     {
-      "titulo": "Conectividade ganha importância para operação de projetos de armazenamento em baterias",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/24/conectividade-ganha-importancia-para-operacao-de-projetos-de-armazenamento-em-baterias/",
-      "resumo": "Briskcom e SunBridge firmam parceria para integrar comunicação de dados e estruturação de sistemas BESS. Leilões de dezembro receberam 6.091 projetos cadastrados, que somam 296,8…",
+      "titulo": "Petrobras prepara projetos de baterias para leilão de reserva de capacidade",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/25/petrobras-prepara-projetos-de-baterias-para-leilao-de-reserva-de-capacidade/",
+      "resumo": "Plano de Negócios 2027–2031 prevê desenvolvimento de sistemas de armazenamento próprios ou em parceria. Joint venture Lightsource BP cadastrou projetos de capacidade relevante para…",
       "imagem": "",
-      "data": "2026-11-24T13:12:49.000Z",
+      "data": "2026-11-25T14:36:42.000Z",
       "fonte": "pv magazine Brasil",
       "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "Primeiras Impressões: Porsche 718 Boxster elétrico ainda é um Boxster de verdade?",
+      "link": "https://insideevs.uol.com.br/reviews/816676/porsche-718-boxter-eletrico-impressoes/",
+      "resumo": "Novo esportivo tem sete marchas artificiais, som inspirado no antigo GTS e direção tão precisa quanto a do 911",
+      "imagem": "https://cdn.motor1.com/images/mgl/BX1RE4/s3/porsche-718-boxster-ev-prototype-first-drive-review.jpg",
+      "data": "2026-11-25T12:01:00.000Z",
+      "fonte": "InsideEVs Brasil",
+      "categoria": "Mobilidade Elétrica"
     },
     {
       "titulo": "Teison e RJ Postos firmam parceria para ampliar recarga elétrica em postos de combustíveis",
@@ -101,15 +119,6 @@
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Motoristas da 99 poderão contratar energia pelo aplicativo, com desconto na conta de luz",
-      "link": "https://eixos.com.br/energia-eletrica/motoristas-da-99-poderao-contratar-energia-pelo-aplicativo-com-desconto-na-conta-de-luz/",
-      "resumo": "Parceria com a Serena usa o sistema de compensação da geração distribuída e chega com a frota eletrificada da plataforma acima de 100 mil carros O post Motoristas da 99 poderão…",
-      "imagem": "https://uploads.eixos.com.br/2026/11/usina-solar-granja-marileusa-uberlandia-1920x1080-1.jpg",
-      "data": "2026-11-23T18:40:02.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
       "titulo": "Kia completa 40 anos de seu primeiro elétrico, uma van baseada na Besta",
       "link": "https://insideevs.uol.com.br/news/816513/kia-besta-van-eletrica-ve%C3%ADculos/",
       "resumo": "Antes de lançar modelos como EV5 e EV9, fabricante sul-coreana já desenvolvia protótipos elétricos na década de 1980",
@@ -126,15 +135,6 @@
       "data": "2026-11-23T18:24:48.000Z",
       "fonte": "O Setor Elétrico",
       "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "De parceira a fornecedora: Leapmotor vai ajudar Stellantis a desenvolver seus próprios elétricos",
-      "link": "https://insideevs.uol.com.br/news/816481/stellantis-usara-base-leapmotor-opel/",
-      "resumo": "Primeiro fruto dessa parceria nascerá através da Opel e pode também render modelos da Fiat, Peugeot, Citroën e até Jeep",
-      "imagem": "https://cdn.motor1.com/images/mgl/9m8Eqv/s3/opel-plant-ein-neues-suv-im-c-segment-partnerschaft-mit-leapmotor-und-produktion-in-europa.jpg",
-      "data": "2026-11-23T14:46:14.000Z",
-      "fonte": "InsideEVs Brasil",
-      "categoria": "Mobilidade Elétrica"
     }
   ],
   "newsletter": []
