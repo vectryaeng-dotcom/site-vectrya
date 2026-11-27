@@ -1,84 +1,102 @@
 {
-  "atualizadoEm": "2026-11-26T09:57:48.312Z",
+  "atualizadoEm": "2026-11-27T09:56:26.910Z",
   "setor": [
     {
-      "titulo": "Da geração à conta de luz: como a energia ocupou o Congresso em 2026",
-      "link": "https://eixos.com.br/politica/da-geracao-a-conta-de-luz-como-a-energia-ocupou-o-congresso-em-2026/",
-      "resumo": "Curtailment, encargos, geração distribuída e proteção do consumidor atravessaram diferentes comissões e revelaram um setor elétrico cada vez mais presente na agenda legislativa…",
-      "imagem": "https://uploads.eixos.com.br/2026/11/WhatsApp-Image-2026-11-25-at-15.32.03.jpeg",
-      "data": "2026-11-26T09:00:00.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "TCU fecha balanço do SIN com pendências em matriz de referência e risco hidrológico",
-      "link": "https://eixos.com.br/politica/tcu-fecha-balanco-do-sin-com-pendencias-em-matriz-de-referencia-e-risco-hidrologico/",
-      "resumo": "TCU reconhece avanços no SIN, mas aponta lacunas em recomendações sobre planejamento térmico e alocação de riscos, e arquiva monitoramento sobre segurança energética O post TCU…",
-      "imagem": "https://uploads.eixos.com.br/2026/08/Placa-na-sede-do-Tribunal-de-Contas-da-Uniao-TCU-em-Brasilia-DF-Foto-Valter-Campanato-Agencia-Brasil.jpg",
-      "data": "2026-11-25T22:39:25.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Leilões de baterias: Justiça nega suspensão, enquanto rateio trava no Congresso",
-      "link": "https://eixos.com.br/newsletters/dialogos-da-transicao/leiloes-de-baterias-justica-nega-suspensao-enquanto-rateio-trava-no-congresso/",
-      "resumo": "Justiça do DF nega pedido de suspensão dos leilões, STF analisa ADI e projeto de lei para mudar rateio de custos trava na Câmara O post Leilões de baterias: Justiça nega suspensão…",
-      "imagem": "https://uploads.eixos.com.br/2026/11/53923262001_a14639835a_k.jpg",
-      "data": "2026-11-25T22:10:12.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "BNDES flexibiliza crédito para baterias e poderá financiar até 80% dos projetos",
-      "link": "https://megawhat.uol.com.br/armazenamento/bndes-flexibiliza-credito-para-baterias-e-podera-financiar-ate-80-dos-projetos/",
-      "resumo": "Sede do BNDES no Rio de Janeiro (Divulgação) O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) poderá flexibilizar os cronogramas de amortização e a estrutura de…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/edificio_sede_do_bndes_Fernando-Frazao_Agencia-Brasil-3.jpg",
-      "data": "2026-11-25T20:32:37.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Concessões de hidrelétricas devem reforçar caixa da CDE até 2030, prevê MME",
-      "link": "https://megawhat.uol.com.br/noticias/governo-aposta-em-concessoes-de-geracao-para-conter-alta-das-tarifas-ate-2030/",
-      "resumo": "João Daniel Cascalho, secretário de Energia Elétrica do MME. O Ministério de Minas e Energia (MME) trabalha com a perspectiva de aportes anuais na Conta de Desenvolvimento…",
-      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2025/12/54809472245_d0688e3624_o.jpg",
-      "data": "2026-11-25T20:18:02.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Brasil chega a oito plantas de biometano aptas a emitir certificados de origem",
-      "link": "https://megawhat.uol.com.br/oleo-e-gas/biometano/brasil-chega-a-oito-plantas-de-biometano-aptas-a-emitir-certificados-de-origem/",
-      "resumo": "Planta de biometano da Gás Verde em Seropédica, no Rio de Janeiro | Crédito: Gás Verde A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) certificou mais cinco…",
-      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2026/11/Planta-de-biometano-da-Gas-Verde-em-Seropedica-no-Rio-de-Janeiro.png",
-      "data": "2026-11-25T19:57:16.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "MDIC defende revisão da lei e mudança no rateio dos custos de baterias",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/25/mdic-defende-revisao-da-lei-e-mudanca-no-rateio-dos-custos-de-baterias/",
-      "resumo": "Pasta considera mais adequada proposta da Aneel de diferenciar encargos conforme a flexibilidade das usinas e defende revisão da lei que atribui aos geradores o custeio das…",
+      "titulo": "Sistemas de baterias para o LRCAP terão crédito diferenciado conforme rota de nacionalização",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/26/sistemas-de-baterias-para-o-lrcap-terao-credito-diferenciado-conforme-rota-de-nacionalizacao/",
+      "resumo": "Projetos das rotas 2, 3 e 4, que exigem a nacionalização de etapas da fabricação das baterias, poderão ter todo o crédito do BNDES financiado pelo Fundo Clima, com juros a partir…",
       "imagem": "",
-      "data": "2026-11-25T16:28:55.000Z",
+      "data": "2026-11-26T23:33:03.000Z",
       "fonte": "pv magazine Brasil",
       "categoria": "Energia Solar"
     },
     {
-      "titulo": "Justiça rejeita pedido de suspensão dos leilões de baterias",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/25/justica-rejeita-pedido-de-suspensao-dos-leiloes-de-baterias/",
-      "resumo": "Decisão aponta riscos à segurança do suprimento em caso de adiamento e afasta necessidade de regulamentação prévia do rateio do encargo entre geradores. Pedido de liminar no STF…",
+      "titulo": "CMN reduz juros do Fundo Clima de 6,5% para 3% para baterias fabricadas no Brasil",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/26/cmn-reduz-juros-do-fundo-clima-de-65-para-3-para-baterias-fabricadas-no-brasil/",
+      "resumo": "Medida amplia a vantagem financeira das rotas 2, 3 e 4 de nacionalização às vésperas do LRCAP. Com o spread mínimo do BNDES, o custo nominal do financiamento cai de 7,88% para…",
       "imagem": "",
-      "data": "2026-11-25T15:51:45.000Z",
+      "data": "2026-11-26T23:32:10.000Z",
       "fonte": "pv magazine Brasil",
       "categoria": "Energia Solar"
     },
     {
-      "titulo": "Petrobras prepara projetos de baterias para leilão de reserva de capacidade",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/25/petrobras-prepara-projetos-de-baterias-para-leilao-de-reserva-de-capacidade/",
-      "resumo": "Plano de Negócios 2027–2031 prevê desenvolvimento de sistemas de armazenamento próprios ou em parceria. Joint venture Lightsource BP cadastrou projetos de capacidade relevante para…",
-      "imagem": "",
-      "data": "2026-11-25T14:36:42.000Z",
+      "titulo": "Tecnologia reaproveita baterias de carros elétricos para armazenar energia solar",
+      "link": "https://eixos.com.br/energias-renovaveis/tecnologia-reaproveita-baterias-de-carros-eletricos-para-armazenar-energia-solar/",
+      "resumo": "Pesquisa busca reduzir o custo do armazenamento residencial, ajudando a resolver um dos grandes impasses da geração distribuída O post Tecnologia reaproveita baterias de carros…",
+      "imagem": "https://uploads.eixos.com.br/2026/11/Homem-diante-de-painel-eletrico-aberto.png",
+      "data": "2026-11-26T23:24:55.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "CMN reduz taxa do Fundo Clima para baterias nacionais",
+      "link": "https://eixos.com.br/energias-renovaveis/cmn-reduz-taxa-do-fundo-clima-para-baterias-nacionais/",
+      "resumo": "Resolução aprovada nesta quinta-feira reduziu o custo financeiro do Fundo Clima, de 6,5% para 3% ao ano, para o financiamento de sistemas de armazenamento O post CMN reduz taxa do…",
+      "imagem": "https://uploads.eixos.com.br/2026/01/Modulos-de-grande-porte-do-primeiro-projeto-de-armazenamento-de-energia-em-baterias-em-larga-escala-no-sistema-de-transmissao-brasileiro-operado-pela-ISA-Energia-Brasil-Foto-Divulgacao.webp",
+      "data": "2026-11-26T23:08:05.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "CMN reduz taxa do Fundo Clima para leilão de baterias a 3% ao ano",
+      "link": "https://megawhat.uol.com.br/armazenamento/cmn-reduz-taxa-do-fundo-clima-para-leilao-de-baterias-a-3-ao-ano/",
+      "resumo": "BNDES O Conselho Monetário Nacional (CMN) aprovou em reunião desta quinta-feira, 26 de novembro, uma resolução que reduz o custo do financiamento do Fundo Clima para baterias com…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/edificio_sede_do_bndes_Fernando-Frazao_Agencia-Brasil-4.jpg",
+      "data": "2026-11-26T22:54:20.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Apagão atinge Manaus, Roraima e o Pará após falha em transmissão",
+      "link": "https://megawhat.uol.com.br/transmissao/apagao-atinge-manaus-e-roraima-apos-falha-em-transmissao/",
+      "resumo": "Crédito: Viktor-Mogilat-on-Unsplash *AtualizaçãoO desligamento de duas linhas de transmissão de 500 kV Jurupari–Oriximiná, que pertencem à Linhas de Macapá Transmissora de Energia…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/Apagao_Photo-by-Viktor-Mogilat-on-Unsplash-5-scaled-1.jpg",
+      "data": "2026-11-26T20:58:16.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Associações do setor elétrico e de telecom pedem sanção integral do PL dos postes",
+      "link": "https://eixos.com.br/politica/entidades-do-setor-eletrico-e-de-telecomunicacoes-pedem-sancao-integral-do-projeto-de-lei-que-organiza-postes/",
+      "resumo": "Texto soluciona problema considerado estrutural por ambos os setores, que é a ocupação desordenada e clandestina de postes O post Associações do setor elétrico e de telecom pedem…",
+      "imagem": "https://uploads.eixos.com.br/2026/01/Postes-de-rede-eletrica-proximo-ao-Colegio-Militar-de-Brasilia-no-bairo-da-Asa-Norte-Foto-Marcello-Casal-Jr_Agencia-Brasil.jpg",
+      "data": "2026-11-26T20:46:26.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Carga deve crescer 6,9% em dezembro com temperaturas mais altas",
+      "link": "https://megawhat.uol.com.br/planejamento/carga-deve-crescer-69-em-dezembro-com-temperaturas-mais-altas/",
+      "resumo": "O Operador Nacional do Sistema Elétrico (ONS) revisou para cima a projeção de carga do Sistema Interligado Nacional (SIN) para dezembro, de 89.830 MW médios para 89.981 MW médios…",
+      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2025/11/termometro_baixo-1920x1080-1.jpg",
+      "data": "2026-11-26T20:42:44.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Avanço de renováveis desafia a operação do setor elétrico e pauta debates no XIX EDAO",
+      "link": "https://www.osetoreletrico.com.br/avanco-de-renovaveis-desafia-a-operacao-do-setor-eletrico-e-pauta-debates-no-xix-edao/",
+      "resumo": "Setor elétrico brasileiro busca integração tecnológica, uso de inteligência artificial e automação para garantir estabilidade da rede; evento foi descarbonizado pela AXIA Energia A…",
+      "imagem": "https://www.osetoreletrico.com.br/wp-content/uploads/2026/11/Antonio-Varejao-XIX-EDAO-1024x682.jpeg",
+      "data": "2026-11-26T19:58:47.000Z",
+      "fonte": "O Setor Elétrico",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Congresso Brasileiro de Eficiência Energética debate inovação, políticas públicas e futuro do setor",
+      "link": "https://www.osetoreletrico.com.br/congresso-brasileiro-de-eficiencia-energetica-debate-inovacao-politicas-publicas-e-futuro-do-setor/",
+      "resumo": "COBEE 2026 reuniu mais de 300 participantes no CREA-SP e reforçou papel da eficiência energética como instrumento para desenvolvimento econômico, segurança energética e…",
+      "imagem": "https://www.osetoreletrico.com.br/wp-content/uploads/2026/11/f5cdec6c963814b34bb25400_22-COBEE-AUDITORIO-CREA-CASAL-ABOOTHY-FOTO-E-FILME-242-1024x683.jpg",
+      "data": "2026-11-26T19:52:32.000Z",
+      "fonte": "O Setor Elétrico",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "SunBridge fornece primeiro BESS como serviço, de 261 kWh, para igreja de Natal (RN)",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/26/sunbridge-fornece-primeiro-bess-como-servico-de-261-kwh-para-igreja-de-natal-rn/",
+      "resumo": "BESS de 261 kWh da Great Power será integrado a uma usina solar de 120 kWp, doada à ADPAZ em 2023. O projeto prevê reduzir a conta mensal de energia de R$ 35 mil para R$ 12 mil.",
+      "imagem": "https://www.pv-magazine-brasil.com/wp-content/uploads/2026/11/Projeto-BESS-da-Sunbridge-para-igreja-Adpaz-Natal-Rio-Grande-do-Norte-1024x768.jpeg",
+      "data": "2026-11-26T14:47:30.000Z",
       "fonte": "pv magazine Brasil",
       "categoria": "Energia Solar"
     },
@@ -110,15 +128,6 @@
       "categoria": "Setor Elétrico"
     },
     {
-      "titulo": "Modernizar sem perder a estabilidade: um olhar para a inovação na indústria",
-      "link": "https://www.osetoreletrico.com.br/modernizar-sem-perder-a-estabilidade-um-olhar-para-a-inovacao-na-industria/",
-      "resumo": "Automação permite elevar o desempenho industrial com melhorias graduais e contínua, aproveitando estruturas existentes e preservando a continuidade operacional Modernizar uma…",
-      "imagem": "",
-      "data": "2026-11-23T18:47:08.000Z",
-      "fonte": "O Setor Elétrico",
-      "categoria": "Setor Elétrico"
-    },
-    {
       "titulo": "Kia completa 40 anos de seu primeiro elétrico, uma van baseada na Besta",
       "link": "https://insideevs.uol.com.br/news/816513/kia-besta-van-eletrica-ve%C3%ADculos/",
       "resumo": "Antes de lançar modelos como EV5 e EV9, fabricante sul-coreana já desenvolvia protótipos elétricos na década de 1980",
@@ -126,15 +135,6 @@
       "data": "2026-11-23T18:31:00.000Z",
       "fonte": "InsideEVs Brasil",
       "categoria": "Mobilidade Elétrica"
-    },
-    {
-      "titulo": "Cepel inicia nova fase com sede no Porto Maravilha focando em inovação e integração com o mercado",
-      "link": "https://www.osetoreletrico.com.br/cepel-inicia-nova-fase-com-sede-no-porto-maravilha-focando-em-inovacao-e-integracao-com-o-mercado/",
-      "resumo": "Com mais de 50 anos de experiência, o Centro Cepel fortalece sua capacidade de pesquisa e desenvolvimento tecnológico; Adrianópolis será um hub integrado de laboratórios O Cepel…",
-      "imagem": "https://www.osetoreletrico.com.br/wp-content/uploads/2026/11/cepel2-1024x682.jpeg",
-      "data": "2026-11-23T18:24:48.000Z",
-      "fonte": "O Setor Elétrico",
-      "categoria": "Setor Elétrico"
     }
   ],
   "newsletter": []
