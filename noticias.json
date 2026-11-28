@@ -1,76 +1,94 @@
 {
-  "atualizadoEm": "2026-11-27T09:56:26.910Z",
+  "atualizadoEm": "2026-11-28T09:41:56.434Z",
   "setor": [
     {
-      "titulo": "Sistemas de baterias para o LRCAP terão crédito diferenciado conforme rota de nacionalização",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/26/sistemas-de-baterias-para-o-lrcap-terao-credito-diferenciado-conforme-rota-de-nacionalizacao/",
-      "resumo": "Projetos das rotas 2, 3 e 4, que exigem a nacionalização de etapas da fabricação das baterias, poderão ter todo o crédito do BNDES financiado pelo Fundo Clima, com juros a partir…",
+      "titulo": "O elétrico mais vendido quase não perdeu valor na Fipe. O imposto ajudou mais que a confiança",
+      "link": "https://eixos.com.br/transicao-energetica/o-eletrico-mais-vendido-quase-nao-perdeu-valor-na-fipe-o-imposto-ajudou-mais-que-a-confianca/",
+      "resumo": "O BYD Dolphin Mini caiu 1% em um ano, contra 8,5% dos carros a combustão mais vendidos. Mas a média esconde modelos que perderam mais de 27%, e quem compra usado sabe disso…",
       "imagem": "",
-      "data": "2026-11-26T23:33:03.000Z",
+      "data": "2026-11-28T09:00:00.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Brasil pode atrair mais de R$ 147 bi em investimentos na transmissão de energia, diz PDE 2036",
+      "link": "https://eixos.com.br/politica/brasil-pode-atrair-mais-de-r-147-bi-em-investimentos-na-transmissao-de-energia-diz-pde-2036/",
+      "resumo": "Projeção pessimista, que considera somente a implantação dos empreendimentos outorgados, tem investimento esperado de R$ 72,8 bilhões O post Brasil pode atrair mais de R$ 147 bi em…",
+      "imagem": "https://uploads.eixos.com.br/2026/08/Linhas-de-transmissao-de-energia-conectadas-a-hidreletrica-de-Itaipu-Foto-Caio-Coronel-Itaipu-Binacional-e1786397710128.webp",
+      "data": "2026-11-27T21:25:30.000Z",
+      "fonte": "agência eixos",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Empresas recorrem à Aneel para evitar exclusão de projetos em leilões de baterias",
+      "link": "https://megawhat.uol.com.br/armazenamento/empresas-recorrem-a-aneel-para-evitar-exclusao-de-projetos-em-leiloes-de-baterias/",
+      "resumo": "Martelo de leilões/ Crédito: Bill Oxford Pelo menos três empresas acionaram a Agência Nacional de Energia Elétrica (Aneel) após enfrentarem dificuldades para concluir o aporte das…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Martelo_leilao_Photo-by-Bill-Oxford-on-Unsplash-38.jpg",
+      "data": "2026-11-27T20:27:31.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "ANP propõe flexibilizar conteúdo local para estimular contratações nacionais",
+      "link": "https://megawhat.uol.com.br/oleo-e-gas/anp-propoe-flexibilizar-conteudo-local-para-estimular-contratacoes-nacionais/",
+      "resumo": "FPSO Anna Nery A possibilidade de compensar obrigações de conteúdo local entre diferentes projetos de exploração e produção de petróleo e gás natural pode estimular a contratação…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/fpso_anna_nery_3.jpg",
+      "data": "2026-11-27T20:22:47.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Associação alerta para risco de ‘falsa chancela’ na abertura do mercado livre de energia",
+      "link": "https://megawhat.uol.com.br/mercado-livre/associacao-alerta-para-risco-de-falsa-chancela-na-abertura-do-mercado-livre-de-energia/",
+      "resumo": "Foto: Diego PH/Unsplash A Associação Nacional dos Consumidores de Energia (Anace) alertou a Câmara de Comercialização de Energia Elétrica (CCEE) sobre o risco de uma “falsa…",
+      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/Lampada-na-mao_Foto-de-Diego-PH-na-Unsplash-3.jpg",
+      "data": "2026-11-27T19:46:51.000Z",
+      "fonte": "MegaWhat",
+      "categoria": "Setor Elétrico"
+    },
+    {
+      "titulo": "Expansão da transmissão demandará R$ 127 bilhões em investimentos até 2036",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/27/expansao-da-transmissao-demandara-r-127-bilhoes-em-investimentos-ate-2036/",
+      "resumo": "Caderno de Transmissão do PDE 2036 prevê uma expansão de 16% das linhas de transmissão e de 19% na capacidade de transformação. Também apresenta cenários para eletrointensivos no…",
+      "imagem": "",
+      "data": "2026-11-27T18:26:14.000Z",
       "fonte": "pv magazine Brasil",
       "categoria": "Energia Solar"
     },
     {
-      "titulo": "CMN reduz juros do Fundo Clima de 6,5% para 3% para baterias fabricadas no Brasil",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/26/cmn-reduz-juros-do-fundo-clima-de-65-para-3-para-baterias-fabricadas-no-brasil/",
-      "resumo": "Medida amplia a vantagem financeira das rotas 2, 3 e 4 de nacionalização às vésperas do LRCAP. Com o spread mínimo do BNDES, o custo nominal do financiamento cai de 7,88% para…",
+      "titulo": "Após vender 56 unidades desde o lançamento, Toyota bZ4X ganha um Mobi de desconto",
+      "link": "https://insideevs.uol.com.br/news/817055/toyota-eletrico-bonus-70-mil/",
+      "resumo": "SUV elétrico chegou ao Brasil em junho com lote de apenas 99 exemplares e agora sai por R$ 349.990",
+      "imagem": "https://cdn.motor1.com/images/mgl/Qe74P1/s3/toyota-lanca-o-bz4x-no-brasil.jpg",
+      "data": "2026-11-27T14:53:19.000Z",
+      "fonte": "InsideEVs Brasil",
+      "categoria": "Mobilidade Elétrica"
+    },
+    {
+      "titulo": "UFF inaugura usina solar de R$ 10 milhões para pesquisa em tecnologias fotovoltaicas no RJ",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/27/uff-inaugura-usina-solar-de-r-10-milhoes-para-pesquisa-em-tecnologias-fotovoltaicas-no-rj/",
+      "resumo": "Instalada em Iguaba Grande, unidade deverá gerar até 1,5 GWh por ano, equivalente ao consumo médio de 400 residências, e permitirá comparar o desempenho de diferentes tecnologias…",
       "imagem": "",
-      "data": "2026-11-26T23:32:10.000Z",
+      "data": "2026-11-27T14:16:55.000Z",
       "fonte": "pv magazine Brasil",
       "categoria": "Energia Solar"
     },
     {
-      "titulo": "Tecnologia reaproveita baterias de carros elétricos para armazenar energia solar",
-      "link": "https://eixos.com.br/energias-renovaveis/tecnologia-reaproveita-baterias-de-carros-eletricos-para-armazenar-energia-solar/",
-      "resumo": "Pesquisa busca reduzir o custo do armazenamento residencial, ajudando a resolver um dos grandes impasses da geração distribuída O post Tecnologia reaproveita baterias de carros…",
-      "imagem": "https://uploads.eixos.com.br/2026/11/Homem-diante-de-painel-eletrico-aberto.png",
-      "data": "2026-11-26T23:24:55.000Z",
+      "titulo": "Intelbras aposta em recarga de veículos elétricos como fonte de receita para estabelecimentos comerciais",
+      "link": "https://www.pv-magazine-brasil.com/2026/11/27/intelbras-aposta-em-recarga-de-veiculos-eletricos-como-fonte-de-receita-para-estabelecimentos-comerciais/",
+      "resumo": "Carregador City Pro permite cobrança pelo serviço e gestão remota, enquanto ecossistema Vaga Verde integra soluções de recarga, energia solar, conectividade e segurança para…",
+      "imagem": "",
+      "data": "2026-11-27T14:14:30.000Z",
+      "fonte": "pv magazine Brasil",
+      "categoria": "Energia Solar"
+    },
+    {
+      "titulo": "IA intensifica ataques cibernéticos ao setor elétrico e empresas montam grupo de defesa no Brasil",
+      "link": "https://eixos.com.br/energia-eletrica/ia-intensifica-ataques-ciberneticos-ao-setor-eletrico-e-empresas-montam-grupo-de-defesa-no-brasil/",
+      "resumo": "Axia, Cemig, ISA e Itaipu compartilham alertas para identificar ofensivas em comum O post IA intensifica ataques cibernéticos ao setor elétrico e empresas montam grupo de defesa no…",
+      "imagem": "https://uploads.eixos.com.br/2026/11/Profissional-gesticulando-diante-de-monitores.png",
+      "data": "2026-11-27T12:00:00.000Z",
       "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "CMN reduz taxa do Fundo Clima para baterias nacionais",
-      "link": "https://eixos.com.br/energias-renovaveis/cmn-reduz-taxa-do-fundo-clima-para-baterias-nacionais/",
-      "resumo": "Resolução aprovada nesta quinta-feira reduziu o custo financeiro do Fundo Clima, de 6,5% para 3% ao ano, para o financiamento de sistemas de armazenamento O post CMN reduz taxa do…",
-      "imagem": "https://uploads.eixos.com.br/2026/01/Modulos-de-grande-porte-do-primeiro-projeto-de-armazenamento-de-energia-em-baterias-em-larga-escala-no-sistema-de-transmissao-brasileiro-operado-pela-ISA-Energia-Brasil-Foto-Divulgacao.webp",
-      "data": "2026-11-26T23:08:05.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "CMN reduz taxa do Fundo Clima para leilão de baterias a 3% ao ano",
-      "link": "https://megawhat.uol.com.br/armazenamento/cmn-reduz-taxa-do-fundo-clima-para-leilao-de-baterias-a-3-ao-ano/",
-      "resumo": "BNDES O Conselho Monetário Nacional (CMN) aprovou em reunião desta quinta-feira, 26 de novembro, uma resolução que reduz o custo do financiamento do Fundo Clima para baterias com…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2024/05/edificio_sede_do_bndes_Fernando-Frazao_Agencia-Brasil-4.jpg",
-      "data": "2026-11-26T22:54:20.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Apagão atinge Manaus, Roraima e o Pará após falha em transmissão",
-      "link": "https://megawhat.uol.com.br/transmissao/apagao-atinge-manaus-e-roraima-apos-falha-em-transmissao/",
-      "resumo": "Crédito: Viktor-Mogilat-on-Unsplash *AtualizaçãoO desligamento de duas linhas de transmissão de 500 kV Jurupari–Oriximiná, que pertencem à Linhas de Macapá Transmissora de Energia…",
-      "imagem": "https://megawhat.uol.com.br/megawhat.uol.com.br/wp-content/uploads/2025/10/Apagao_Photo-by-Viktor-Mogilat-on-Unsplash-5-scaled-1.jpg",
-      "data": "2026-11-26T20:58:16.000Z",
-      "fonte": "MegaWhat",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Associações do setor elétrico e de telecom pedem sanção integral do PL dos postes",
-      "link": "https://eixos.com.br/politica/entidades-do-setor-eletrico-e-de-telecomunicacoes-pedem-sancao-integral-do-projeto-de-lei-que-organiza-postes/",
-      "resumo": "Texto soluciona problema considerado estrutural por ambos os setores, que é a ocupação desordenada e clandestina de postes O post Associações do setor elétrico e de telecom pedem…",
-      "imagem": "https://uploads.eixos.com.br/2026/01/Postes-de-rede-eletrica-proximo-ao-Colegio-Militar-de-Brasilia-no-bairo-da-Asa-Norte-Foto-Marcello-Casal-Jr_Agencia-Brasil.jpg",
-      "data": "2026-11-26T20:46:26.000Z",
-      "fonte": "agência eixos",
-      "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Carga deve crescer 6,9% em dezembro com temperaturas mais altas",
-      "link": "https://megawhat.uol.com.br/planejamento/carga-deve-crescer-69-em-dezembro-com-temperaturas-mais-altas/",
-      "resumo": "O Operador Nacional do Sistema Elétrico (ONS) revisou para cima a projeção de carga do Sistema Interligado Nacional (SIN) para dezembro, de 89.830 MW médios para 89.981 MW médios…",
-      "imagem": "https://megawhat.uol.com.br/uploads.megawhat.energy/uploads/2025/11/termometro_baixo-1920x1080-1.jpg",
-      "data": "2026-11-26T20:42:44.000Z",
-      "fonte": "MegaWhat",
       "categoria": "Setor Elétrico"
     },
     {
@@ -90,15 +108,6 @@
       "data": "2026-11-26T19:52:32.000Z",
       "fonte": "O Setor Elétrico",
       "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "SunBridge fornece primeiro BESS como serviço, de 261 kWh, para igreja de Natal (RN)",
-      "link": "https://www.pv-magazine-brasil.com/2026/11/26/sunbridge-fornece-primeiro-bess-como-servico-de-261-kwh-para-igreja-de-natal-rn/",
-      "resumo": "BESS de 261 kWh da Great Power será integrado a uma usina solar de 120 kWp, doada à ADPAZ em 2023. O projeto prevê reduzir a conta mensal de energia de R$ 35 mil para R$ 12 mil.",
-      "imagem": "https://www.pv-magazine-brasil.com/wp-content/uploads/2026/11/Projeto-BESS-da-Sunbridge-para-igreja-Adpaz-Natal-Rio-Grande-do-Norte-1024x768.jpeg",
-      "data": "2026-11-26T14:47:30.000Z",
-      "fonte": "pv magazine Brasil",
-      "categoria": "Energia Solar"
     },
     {
       "titulo": "Primeiras Impressões: Porsche 718 Boxster elétrico ainda é um Boxster de verdade?",
@@ -126,15 +135,6 @@
       "data": "2026-11-23T18:58:48.000Z",
       "fonte": "O Setor Elétrico",
       "categoria": "Setor Elétrico"
-    },
-    {
-      "titulo": "Kia completa 40 anos de seu primeiro elétrico, uma van baseada na Besta",
-      "link": "https://insideevs.uol.com.br/news/816513/kia-besta-van-eletrica-ve%C3%ADculos/",
-      "resumo": "Antes de lançar modelos como EV5 e EV9, fabricante sul-coreana já desenvolvia protótipos elétricos na década de 1980",
-      "imagem": "https://cdn.motor1.com/images/mgl/1ZPrjM/s3/kia-besta-1986-ev.jpg",
-      "data": "2026-11-23T18:31:00.000Z",
-      "fonte": "InsideEVs Brasil",
-      "categoria": "Mobilidade Elétrica"
     }
   ],
   "newsletter": []
